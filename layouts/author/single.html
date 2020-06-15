@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<section class="section bg-light">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 mx-auto">
+				<div class="text-center">
+					<figure>
+						{{ if .Params.Image }}
+						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;"
+							src="{{.Params.Image | absURL }}">
+						{{else if .Params.Email}}
+						<img class="rounded-circle img-fluid mb-4"
+							src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">
+						{{ end }}
+						<figcaption>
+							<h4>{{ .Title }}</h4>
+						</figcaption>
+					</figure>
+					<hr>
+					{{ .Content }}
+					<hr>
+					<ul class="list-inline social-icons">
+						{{ range .Params.Social }}
+						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="section-sm">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="title text-center">
+					<h2 class="mb-5">Posted By This Author</h2>
+				</div>
+			</div>
+			{{ range where .Site.RegularPages "Params.author" .Title }}
+			<div class="col-md-6 mb-4">
+				<div class="post post-sm">
+					<img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+					<div class="post-content">
+						<div class="post-date">
+							<span>{{ .PublishDate.Format "02" }}</span>
+							<span>{{ .PublishDate.Format "Jan" }}</span>
+						</div>
+						<h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+						<ul class="list-inline post-meta">
+							<li class="list-inline-item"><i class="ti-tag"></i></li>
+							{{ range .Params.Tags }}
+							<li class="list-inline-item"><a
+									href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a></li> {{ end }}
+						</ul>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+{{ end }}

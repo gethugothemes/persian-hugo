@@ -1,0 +1,27 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: author
+  label: author
+  description: 'Ex: John Doe'
+- type: text
+  name: description
+  label: description
+  description: this is meta description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags

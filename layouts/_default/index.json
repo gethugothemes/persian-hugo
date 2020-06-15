@@ -1,0 +1,7 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+{{ $date:= .PublishDate.Format "02"}}
+{{ $month:= .PublishDate.Format "Jan"}}
+  {{- $.Scratch.Add "index" (dict "title" .Title "date" $date "month" $month "tags" .Params.tags "image" .Params.image "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

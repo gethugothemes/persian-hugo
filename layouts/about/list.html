@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<section class="section-sm pb-0 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <h1 class="text-center">{{.Title | markdownify}}</h1>
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="author" class="author-img">
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="col-lg-8 mx-auto">
+      <div class="content">{{.Content}}</div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

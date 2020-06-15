@@ -1,0 +1,184 @@
+body {
+  background-color: $body-color;
+  overflow-x: hidden;
+  transition: .2s ease;
+}
+
+::selection {
+  background: lighten($color: $primary-color, $amount: 10);
+  color: $white;
+}
+
+/* preloader */
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $body-color;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  vertical-align: middle;
+  border: 0;
+}
+
+a {
+  color: inherit;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+a,
+button,
+select {
+  cursor: pointer;
+  transition: .2s ease;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+a:hover {
+  color: $primary-color;
+}
+
+.slick-slide {
+  outline: 0;
+}
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+
+  &-sm {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  &-title {
+    margin-bottom: 30px;
+  }
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.border-primary {
+  border-color: $border-color !important;
+}
+
+/* overlay */
+
+.overlay {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: $black;
+    opacity: .5;
+  }
+}
+
+
+.border-default {
+  border-color: $border-color !important;
+}
+
+.outline-0 {
+  outline: 0 !important;
+}
+
+.d-unset {
+  display: unset !important;
+}
+
+.bg-primary {
+  background: $primary-color !important;
+}
+
+.bg-black {
+  background: $black !important;
+}
+
+.text-primary {
+  color: $primary-color !important;
+}
+
+.bg-light{
+  background-color: $light !important;
+}
+
+// form control
+.form-control {
+  width: 100%;
+  height: 50px;
+  border: 1px solid $border-color;
+  background-color: transparent;
+  color: $text-color-dark;
+
+  &:focus {
+    border-color: $primary-color !important;
+    color: inherit;
+    box-shadow: none;
+    background-color: transparent;
+  }
+}
+
+.form-group {
+  label {
+    color: $text-color-dark;
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  .form-control {
+    border: 0;
+    border: 1px solid $border-color;
+    border-radius: 0;
+    padding: 0 20px;
+    height: 50px;
+    background-color: inherit;
+    color: $text-color-dark;
+
+    &::placeholder {
+      font-size: 15px;
+      opacity: 1;
+      color: $text-color;
+    }
+  }
+
+  margin-bottom: 20px;
+}
+
+textarea.form-control {
+  height: 150px !important;
+  padding: 20px !important;
+}
+
+mark{
+  background-color: transparent;
+  color: $white;
+  border: 1px solid $white;
+  border-radius: 3px;
+  margin: 0 5px;
+  padding: 0 5px;
+}

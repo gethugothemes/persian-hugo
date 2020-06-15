@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="text-center">
+      <h1 class="text-center display-3">Search result for <script>var str=(window.location.search).substr(3);var result=str.replace("+"," ");document.write(result);</script></h1>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container-fluid">
+    <div class="row" id="search-results"></div>
+    <script id="search-result-template" type="text/x-js-template">
+      <div class="col-md-6 mb-4" id="summary-${key}">
+        <div class="post post-sm">
+          <img src="{{.Site.BaseURL}}${image}" class="img-fluid w-100" alt="${title}">
+          <div class="post-content">
+            <div class="post-date">
+              <span>${date}</span>
+              <span>${month}</span>
+            </div>
+            <h2 class="post-title"><a href="${link}">${title}</a></h2>
+            <ul class="list-inline post-meta">
+              <li class="list-inline-item"><i class="ti-tag"></i></li>
+              <li class="list-inline-item text-light">${tags}</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </script>
+  </div>
+</section>
+
+{{ end }}

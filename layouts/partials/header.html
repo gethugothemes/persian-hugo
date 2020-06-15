@@ -1,0 +1,56 @@
+{{ "<!-- navigation -->" | safeHTML }}
+<header class="py-4">
+  <div class="container-fluid">
+    <!-- navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
+        {{ if .Site.Params.logo }}
+        <img class="img-fluid" width="150px" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+        {{ else }}
+        {{.Site.Title}}
+        {{ end }}
+      </a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <ul class="navbar-nav ml-auto">
+          {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              {{ .Name }} <i class="ti-angle-down ml-1"></i>
+            </a>
+            <div class="dropdown-menu">
+              {{ range .Children }}
+              <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+              {{ end }}
+            </div>
+          </li>
+          {{ else }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+
+        {{ if .Site.Params.search }}
+        {{ "<!-- search -->" | safeHTML }}
+        <div class="search px-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="{{ `search`| relLangURL }}" class="h-100">
+              <input class="search-box pl-4" id="search-query" name="s" type="search" placeholder="Type and hit enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </nav>
+  </div>
+</header>
+{{ "<!-- /navigation -->" | safeHTML }}

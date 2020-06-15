@@ -1,0 +1,407 @@
+.post {
+  position: relative;
+
+  &-content {
+    padding: 5% 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    * {
+      position: relative;
+      z-index: 1;
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to bottom, rgba(56, 56, 56, .50), rgba(56, 56, 56, .30) 100%);
+    }
+  }
+
+  &-date {
+    color: $white;
+    min-height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    border: 1px solid $white;
+    margin: 0 auto 20px;
+    @include mobile {
+      zoom: .7;
+    }
+
+    span {
+      display: block;
+      text-transform: uppercase;
+
+      &:first-child {
+        font-size: 180%;
+        margin-bottom: 5px;
+      }
+    }
+  }
+
+  &-title {
+    font-size: 4rem;
+    color: $white;
+    @include desktop-lg {
+      font-size: 3rem;
+    }
+    @include desktop {
+      font-size: 1.7rem;
+    }
+    @include mobile {
+      font-size: 1.2rem;
+    }
+
+    a {
+      color: inherit;
+    }
+  }
+
+  &-meta {
+    margin-top: auto;
+
+    i {
+      font-size: 20px;
+    }
+
+    a {
+      text-transform: uppercase;
+
+      &:hover {
+        color: $primary-color;
+      }
+    }
+  }
+
+  .post-meta {
+
+    i {
+      color: $white;
+    }
+
+    a {
+      color: $white;
+      
+    @include mobile {
+      font-size: 12px;
+    }
+    }
+  }
+
+  &-sm {
+    .post-title {
+      font-size: 1.7rem;
+      @include mobile {
+        font-size: 1.2rem;
+      }
+    }
+  }
+}
+
+.author-img{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  transform: translateY(50px);
+}
+
+.facts{
+  text-align: center;
+  h1,h2,h3{
+    display: inline-block;
+    border-bottom: 1px solid $black;
+    margin-bottom: 20px;
+  }
+  li{
+    border-bottom: 1px solid $border-color;
+    padding: 10px 0;
+    margin: 0 !important;
+    &::before{
+      display: none;
+    }
+  }
+}
+
+
+// pagination
+.pagination {
+  margin-top: 30px;
+
+  .page-item {
+    .page-link {
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      border-radius: 50%;
+      background: transparent;
+      text-align: center;
+      padding: 0;
+      margin-right: 10px;
+      border: 0;
+      color: $text-color;
+
+      &:hover {
+        background: $primary-color;
+        color: $white;
+      }
+
+      &:focus {
+        box-shadow: none;
+      }
+    }
+
+    &:first-child,
+    &:last-child {
+      .page-link {
+        border-radius: 50%;
+      }
+    }
+
+    &.active {
+      .page-link {
+        background: $primary-color;
+        color: $white;
+      }
+    }
+  }
+}
+
+// content style
+.content {
+
+  * {
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  a {
+    color: $text-color;
+    border-bottom: 1px dotted $border-color;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  ol,
+  ul {
+    padding-left: 20px;
+
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  ul {
+    padding-left: 0;
+    margin-bottom: 20px;
+    list-style-type: none;
+
+    li {
+      padding-left: 20px;
+      position: relative;
+
+      &::before {
+        position: absolute;
+        content: '';
+        height: 8px;
+        width: 8px;
+        border-radius: 50%;
+        background: $primary-color;
+        left: 3px;
+        top: 8px;
+      }
+    }
+
+  }
+
+  table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid $border-color;
+  }
+
+  table td,
+  table th {
+    padding: .75rem;
+    vertical-align: top;
+    margin-bottom: 0;
+  }
+
+  tr:not(:last-child) {
+    border-bottom: 1px solid $border-color;
+  }
+
+  th {
+    font-weight: 500;
+  }
+
+  thead {
+    background: $light;
+    margin-bottom: 0;
+
+    tr {
+      border-bottom: 1px solid $border-color;
+    }
+  }
+
+  tbody {
+    background: lighten($color: $light, $amount: 5);
+    margin-bottom: 0;
+  }
+
+  .notices {
+    margin: 2rem 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .notices p {
+    padding: 10px;
+    margin-bottom: 0;
+  }
+
+  .notices p::before {
+    position: absolute;
+    top: 2px;
+    color: $white;
+    font-family: "themify";
+    font-weight: 900;
+    content: "\e717";
+    left: 10px;
+  }
+
+  .notices.note p {
+    border-top: 30px solid #6ab0de;
+    background: $light;
+  }
+
+  .notices.note p::after {
+    content: 'Note';
+    position: absolute;
+    top: 2px;
+    color: $white;
+    left: 2rem;
+  }
+
+
+  .notices.tip p {
+    border-top: 30px solid #78C578;
+    background: $light;
+  }
+
+  .notices.tip p::after {
+    content: 'Tip';
+    position: absolute;
+    top: 2px;
+    color: $white;
+    left: 2rem;
+  }
+
+  .notices.info p {
+    border-top: 30px solid #F0B37E;
+    background: $light;
+  }
+
+  .notices.info p::after {
+    content: 'Info';
+    position: absolute;
+    top: 2px;
+    color: $white;
+    left: 2rem;
+  }
+
+
+  .notices.warning p {
+    border-top: 30px solid #E06F6C;
+    background: $light;
+  }
+
+  .notices.warning p::after {
+    content: 'Warning';
+    position: absolute;
+    top: 2px;
+    color: #fff;
+    left: 2rem;
+  }
+
+
+  blockquote {
+    font-size: 20px !important;
+    color: $text-color;
+    padding: 20px 40px;
+    border-left: 2px solid $primary-color;
+    margin: 40px 0;
+    font-weight: bold;
+    background: $light;
+
+    p {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  pre {
+    display: block;
+    padding: 9.5px;
+    margin: 10px 0px 10px;
+    white-space: pre-wrap;
+  }
+
+  code {
+    margin-bottom: 0 !important;
+    font-size: 100%;
+  }
+}
+
+.quote {
+  background-color: $light;
+  display: flex;
+  padding: 20px;
+  margin-bottom: 20px;
+
+  i {
+    font-size: 24px;
+    color: $primary-color;
+    margin-right: 10px;
+  }
+
+  p {
+    font-style: italic;
+  }
+
+  &-by {
+    color: $primary-color;
+  }
+}

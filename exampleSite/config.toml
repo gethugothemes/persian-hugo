@@ -1,0 +1,110 @@
+######################## default configuration ####################
+baseURL = "http://demo.themefisher.com/persian-hugo/"
+title = "Persian"
+theme = "persian"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+paginate = "5"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+############################# output ##############################
+[outputs]
+home = [ "HTML", "RSS", "json"]
+
+# render unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+################################ menu ##################################
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "Category"
+URL = "categories/nature/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 4
+
+[[menu.main]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 5
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# search  
+search = true
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"

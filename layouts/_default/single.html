@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+<section>
+  <div class="container-fluid">
+    <div class="post">
+      <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+      <div class="post-content">
+        <div class="post-date">
+          <span>{{ .PublishDate.Format "02" }}</span>
+          <span>{{ .PublishDate.Format "Jan" }}</span>
+        </div>
+        <h2 class="post-title">{{ .Title }}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h1 class="mb-4">{{ .Title }}</h1>
+        <div class="content">{{.Content}}</div>
+
+        <div class="text-center mt-5">
+          <ul class="list-inline post-meta d-inline-block mr-4">
+            <li class="list-inline-item"><i class="ti-tag"></i></li>
+            {{ range .Params.Tags }}
+            <li class="list-inline-item">
+              <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{ . | humanize }}</a>
+            </li>
+            {{ end }}
+          </ul>
+          <span><i class="ti-user mr-2"></i><a
+              href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ if .Site.DisqusShortname }}
+<section class="section-sm bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}
