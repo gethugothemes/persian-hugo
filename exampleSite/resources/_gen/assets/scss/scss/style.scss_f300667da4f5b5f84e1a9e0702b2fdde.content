@@ -1,8 +1,11 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-PROJECT:	Project Name
-VERSION:	Versoin Number
+PROJECT: Persian Hugo
+VERSION: 1.0.0
+AUTHOR: Themefisher
+AUTHOR WEBSITE: https://themefisher.com
+
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
@@ -24,7 +27,7 @@ p, .paragraph {
   font-family: "Playfair Display", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #555;
+  color: #333;
   font-family: "Playfair Display", sans-serif;
   font-weight: 500;
   line-height: 1.2; }
@@ -63,20 +66,20 @@ h6, .h6 {
     box-shadow: none !important; }
 
 .btn-primary {
-  background: #F6A623;
+  background: #222;
   color: #fff;
-  border-color: #F6A623; }
+  border-color: #222; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary.active {
-    background: #F6A623 !important;
-    border-color: #F6A623 !important; }
+    background: #222 !important;
+    border-color: #222 !important; }
 
 .btn-outline-primary {
   background: transparent;
   color: #555;
-  border-color: #F6A623; }
+  border-color: #222; }
   .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary.active {
-    background: #F6A623 !important;
-    border-color: #F6A623 !important;
+    background: #222 !important;
+    border-color: #222 !important;
     color: #fff; }
 
 .btn-link {
@@ -93,7 +96,7 @@ h6, .h6 {
   .btn-link:active, .btn-link:hover, .btn-link.focus, .btn-link.active {
     background: transparent !important;
     border: 0 !important;
-    color: #F6A623;
+    color: #222;
     text-decoration: none; }
     .btn-link:active i, .btn-link:hover i, .btn-link.focus i, .btn-link.active i {
       margin-left: 15px; }
@@ -104,7 +107,7 @@ body {
   transition: .2s ease; }
 
 ::selection {
-  background: #f8ba54;
+  background: #3c3c3c;
   color: #fff; }
 
 /* preloader */
@@ -143,7 +146,7 @@ select {
     outline: 0; }
 
 a:hover {
-  color: #F6A623; }
+  color: #222; }
 
 .slick-slide {
   outline: 0; }
@@ -188,25 +191,25 @@ a:hover {
   display: unset !important; }
 
 .bg-primary {
-  background: #F6A623 !important; }
+  background: #222 !important; }
 
 .bg-black {
   background: #000 !important; }
 
 .text-primary {
-  color: #F6A623 !important; }
+  color: #222 !important; }
 
-.zindex-1 {
-  z-index: 1; }
+.bg-light {
+  background-color: #fbfbfb !important; }
 
 .form-control {
   width: 100%;
   height: 50px;
   border: 1px solid #eee;
   background-color: transparent;
-  color: #555; }
+  color: #333; }
   .form-control:focus {
-    border-color: #eee;
+    border-color: #222 !important;
     color: inherit;
     box-shadow: none;
     background-color: transparent; }
@@ -214,32 +217,44 @@ a:hover {
 .form-group {
   margin-bottom: 20px; }
   .form-group label {
-    color: #555;
-    font-size: 15px; }
+    color: #333;
+    margin-bottom: 10px;
+    display: block; }
   .form-group .form-control {
     border: 0;
-    border-bottom: 1px solid #eee;
+    border: 1px solid #eee;
     border-radius: 0;
-    padding: 0;
-    height: 40px;
-    background-color: inherit; }
+    padding: 0 20px;
+    height: 50px;
+    background-color: inherit;
+    color: #333; }
     .form-group .form-control::placeholder {
-      font-size: 13px;
-      opacity: .8; }
+      font-size: 15px;
+      opacity: 1;
+      color: #555; }
 
 textarea.form-control {
-  height: 100px !important; }
+  height: 150px !important;
+  padding: 20px !important; }
+
+mark {
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 3px;
+  margin: 0 5px;
+  padding: 0 5px; }
 
 .navigation {
   position: relative;
   padding: 50px 0; }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #555;
+  color: #333;
   text-transform: capitalize;
-  font-size: 14px; }
+  font-size: 18px; }
   .navbar-light .navbar-nav .nav-link:hover {
-    color: #F6A623; }
+    color: #222; }
 
 .navbar-expand-md .navbar-nav .nav-item {
   margin: 0; }
@@ -258,7 +273,7 @@ textarea.form-control {
     font-size: 14px;
     padding: 7px 22px; }
     .navbar-expand-md .navbar-nav .dropdown-menu .dropdown-item:hover {
-      color: #F6A623; }
+      color: #222; }
 
 /* search */
 .search-btn {
@@ -328,7 +343,7 @@ textarea.form-control {
       left: 0;
       width: 100%;
       height: 100%;
-      background: linear-gradient(to bottom, rgba(56, 56, 56, 0.45), rgba(56, 56, 56, 0.25) 100%); }
+      background: linear-gradient(to bottom, rgba(56, 56, 56, 0.5), rgba(56, 56, 56, 0.3) 100%); }
   .post-date {
     color: #fff;
     min-height: 75px;
@@ -336,6 +351,9 @@ textarea.form-control {
     border-radius: 50%;
     border: 1px solid #fff;
     margin: 0 auto 20px; }
+    @media (max-width: 575px) {
+      .post-date {
+        zoom: .7; } }
     .post-date span {
       display: block;
       text-transform: uppercase; }
@@ -345,6 +363,15 @@ textarea.form-control {
   .post-title {
     font-size: 4rem;
     color: #fff; }
+    @media (max-width: 1200px) {
+      .post-title {
+        font-size: 3rem; } }
+    @media (max-width: 991px) {
+      .post-title {
+        font-size: 1.7rem; } }
+    @media (max-width: 575px) {
+      .post-title {
+        font-size: 1.2rem; } }
     .post-title a {
       color: inherit; }
   .post-meta {
@@ -354,13 +381,38 @@ textarea.form-control {
     .post-meta a {
       text-transform: uppercase; }
       .post-meta a:hover {
-        color: #F6A623; }
+        color: #222; }
   .post .post-meta i {
     color: #fff; }
   .post .post-meta a {
     color: #fff; }
+    @media (max-width: 575px) {
+      .post .post-meta a {
+        font-size: 12px; } }
   .post-sm .post-title {
     font-size: 1.7rem; }
+    @media (max-width: 575px) {
+      .post-sm .post-title {
+        font-size: 1.2rem; } }
+.author-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  transform: translateY(50px); }
+
+.facts {
+  text-align: center; }
+  .facts h1, .facts h2, .facts h3 {
+    display: inline-block;
+    border-bottom: 1px solid #000;
+    margin-bottom: 20px; }
+  .facts li {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    margin: 0 !important; }
+    .facts li::before {
+      display: none; }
 
 .pagination {
   margin-top: 30px; }
@@ -377,14 +429,14 @@ textarea.form-control {
     border: 0;
     color: #555; }
     .pagination .page-item .page-link:hover {
-      background: #F6A623;
+      background: #222;
       color: #fff; }
     .pagination .page-item .page-link:focus {
       box-shadow: none; }
   .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
     border-radius: 50%; }
   .pagination .page-item.active .page-link {
-    background: #F6A623;
+    background: #222;
     color: #fff; }
 
 .content * {
@@ -409,7 +461,7 @@ textarea.form-control {
   color: #555;
   border-bottom: 1px dotted #eee; }
   .content a:hover {
-    color: #F6A623; }
+    color: #222; }
 
 .content ol,
 .content ul {
@@ -431,7 +483,7 @@ textarea.form-control {
       height: 8px;
       width: 8px;
       border-radius: 50%;
-      background: #F6A623;
+      background: #222;
       left: 3px;
       top: 8px; }
 
@@ -454,13 +506,13 @@ textarea.form-control {
   font-weight: 500; }
 
 .content thead {
-  background: #eee;
+  background: #fbfbfb;
   margin-bottom: 0; }
   .content thead tr {
     border-bottom: 1px solid #eee; }
 
 .content tbody {
-  background: #fbfbfb;
+  background: white;
   margin-bottom: 0; }
 
 .content .notices {
@@ -483,7 +535,7 @@ textarea.form-control {
 
 .content .notices.note p {
   border-top: 30px solid #6ab0de;
-  background: #eee; }
+  background: #fbfbfb; }
 
 .content .notices.note p::after {
   content: 'Note';
@@ -494,7 +546,7 @@ textarea.form-control {
 
 .content .notices.tip p {
   border-top: 30px solid #78C578;
-  background: #eee; }
+  background: #fbfbfb; }
 
 .content .notices.tip p::after {
   content: 'Tip';
@@ -505,7 +557,7 @@ textarea.form-control {
 
 .content .notices.info p {
   border-top: 30px solid #F0B37E;
-  background: #eee; }
+  background: #fbfbfb; }
 
 .content .notices.info p::after {
   content: 'Info';
@@ -516,7 +568,7 @@ textarea.form-control {
 
 .content .notices.warning p {
   border-top: 30px solid #E06F6C;
-  background: #eee; }
+  background: #fbfbfb; }
 
 .content .notices.warning p::after {
   content: 'Warning';
@@ -529,10 +581,10 @@ textarea.form-control {
   font-size: 20px !important;
   color: #555;
   padding: 20px 40px;
-  border-left: 2px solid #F6A623;
+  border-left: 2px solid #222;
   margin: 40px 0;
   font-weight: bold;
-  background: #eee; }
+  background: #fbfbfb; }
   .content blockquote p {
     margin-bottom: 0 !important; }
 
@@ -545,3 +597,17 @@ textarea.form-control {
 .content code {
   margin-bottom: 0 !important;
   font-size: 100%; }
+
+.quote {
+  background-color: #fbfbfb;
+  display: flex;
+  padding: 20px;
+  margin-bottom: 20px; }
+  .quote i {
+    font-size: 24px;
+    color: #222;
+    margin-right: 10px; }
+  .quote p {
+    font-style: italic; }
+  .quote-by {
+    color: #222; }

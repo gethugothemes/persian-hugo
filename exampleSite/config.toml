@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/persian-hugo/"
+baseURL = "https://www.example.com"
 title = "Persian"
 theme = "persian"
 languageName = "En"
