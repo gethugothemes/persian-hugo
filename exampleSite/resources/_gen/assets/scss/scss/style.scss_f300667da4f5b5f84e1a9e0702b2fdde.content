@@ -256,23 +256,23 @@ mark {
   .navbar-light .navbar-nav .nav-link:hover {
     color: #222; }
 
-.navbar-expand-md .navbar-nav .nav-item {
+.navbar-expand-lg .navbar-nav .nav-item {
   margin: 0; }
-  .navbar-expand-md .navbar-nav .nav-item .nav-link {
-    padding: 15px 25px; }
+  .navbar-expand-lg .navbar-nav .nav-item .nav-link {
+    padding: 15px 20px !important; }
 
-.navbar-expand-md .navbar-nav .dropdown-menu {
+.navbar-expand-lg .navbar-nav .dropdown-menu {
   background-color: #fff;
   padding: 10px 0;
   margin: 0;
   border-radius: 0;
   border-color: #eee;
   text-align: center; }
-  .navbar-expand-md .navbar-nav .dropdown-menu .dropdown-item {
+  .navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item {
     color: #555;
     font-size: 14px;
     padding: 7px 22px; }
-    .navbar-expand-md .navbar-nav .dropdown-menu .dropdown-item:hover {
+    .navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item:hover {
       color: #222; }
 
 /* search */
@@ -328,11 +328,12 @@ mark {
     top: 0;
     left: 0;
     right: 0;
-    text-align: center;
     height: 100%;
     width: 100%;
     display: flex;
-    flex-direction: column; }
+    flex-direction: column;
+    text-align: center;
+    justify-content: center; }
     .post-content * {
       position: relative;
       z-index: 1; }
@@ -362,7 +363,8 @@ mark {
         margin-bottom: 5px; }
   .post-title {
     font-size: 4rem;
-    color: #fff; }
+    color: #fff;
+    margin-bottom: 20px; }
     @media (max-width: 1200px) {
       .post-title {
         font-size: 3rem; } }
@@ -374,14 +376,12 @@ mark {
         font-size: 1.2rem; } }
     .post-title a {
       color: inherit; }
-  .post-meta {
-    margin-top: auto; }
-    .post-meta i {
-      font-size: 20px; }
-    .post-meta a {
-      text-transform: uppercase; }
-      .post-meta a:hover {
-        color: #222; }
+  .post-meta i {
+    font-size: 20px; }
+  .post-meta a {
+    text-transform: uppercase; }
+    .post-meta a:hover {
+      color: #222; }
   .post .post-meta i {
     color: #fff; }
   .post .post-meta a {

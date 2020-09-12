@@ -1,4 +1,4 @@
-.navigation{
+.navigation {
   position: relative;
   padding: 50px 0;
 }
@@ -13,12 +13,12 @@
   }
 }
 
-.navbar-expand-md .navbar-nav {
+.navbar-expand-lg .navbar-nav {
   .nav-item {
     margin: 0;
 
     .nav-link {
-      padding: 15px 25px;
+      padding: 15px 20px !important;
     }
   }
 
@@ -91,7 +91,7 @@
   font-size: 20px;
 }
 
-.navigation-modal{
+.navigation-modal {
   height: 100vh;
   width: 100vw;
   background: $body-color;
