@@ -22,7 +22,7 @@ Go to your [forestry](https://bit.ly/forestry-account)  account and click on `im
 
 ### Step 3 : Setup and host website with Netlify
 
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `persian hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+Here comes the last step , go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `persian hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
 
 > If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/persian-hugo/issues)
 
@@ -63,10 +63,18 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 
 If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
-## Licensing
+## Support Us (Author) 
+This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
 
-- Copyright 2020 Designed by [Themefisher](https://themefisher.com/) & Developed by [Gethugothemes](https://gethugothemes.com/)
-- Licensed under MIT (https://github.com/themefisher/persian-hugo/blob/master/LICENSE)
+* **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!
+* **[Donate $20](https://www.paypal.me/themefisher/20USD)**: Wow, I am stunned. Let me take you to the movies!
+* **[Donate $30](https://www.paypal.me/themefisher/30USD)**: I really appreciate your work, let's grab some lunch!
+* **[Donate $40](https://www.paypal.me/themefisher/40USD)**: That's some awesome stuff you did right there, dinner is on me!
+* **[Donate $50](https://www.paypal.me/themefisher/50USD)**: I really really want to support this project, great job!
+* **[Donate $100](https://www.paypal.me/themefisher/100USD)**: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
+* **[Donate $1500](https://www.paypal.me/themefisher/1500USD)**: Go buddy, buy Macbook Pro for yourself!
+
+Of course, you can also choose what you want to donate, all donations are awesome ! 
 
 ## Premium Themes
 
