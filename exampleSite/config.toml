@@ -82,6 +82,11 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
 
 ############################# social site ########################
 [[params.social]]
