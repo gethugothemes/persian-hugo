@@ -40,27 +40,27 @@ link = "plugins/search/search.js"
 ################################ menu ##################################
 [[menu.main]]
 name = "Home"
-URL = "/"
+url = "/"
 weight = 1
 
 [[menu.main]]
 name = "About"
-URL = "about"
+url = "about"
 weight = 2
 
 [[menu.main]]
 name = "Category"
-URL = "categories/nature/"
+url = "categories/nature/"
 weight = 3
 
 [[menu.main]]
 name = "Contact"
-URL = "contact"
+url = "contact"
 weight = 4
 
 [[menu.main]]
 name = "Privacy Policy"
-URL = "privacy-policy"
+url = "privacy-policy"
 weight = 5
 
 
@@ -86,30 +86,3 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.cookies]
 enable = true
 expire_days = 2
-
-
-############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
