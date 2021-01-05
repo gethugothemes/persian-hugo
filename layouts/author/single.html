@@ -7,11 +7,9 @@
 				<div class="text-center">
 					<figure>
 						{{ if .Params.Image }}
-						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;"
-							src="{{.Params.Image | absURL }}">
+						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="{{.Params.Image | absURL }}">
 						{{else if .Params.Email}}
-						<img class="rounded-circle img-fluid mb-4"
-							src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">
+						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
 						{{ end }}
 						<figcaption>
 							<h4>{{ .Title }}</h4>
