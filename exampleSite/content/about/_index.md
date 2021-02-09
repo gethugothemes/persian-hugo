@@ -15,3 +15,7 @@ I have been interested in photography since high school, and dabbled in it then.
 <br>
 
 One of my favorite parts about photography is being able to capture emotions and little moments that are so special, that might even be missed if they weren't captured.  I love the little smiles and touches, the connection between people.  Toddlers and younger children are some of my favorite people to shoot because they are so genuine and real and just straight emotion with no filter. 
+
+<br>
+
+I worked in the coffeeshop/patissiere industry for several years and that was where my interest in food and product photography began.  I realized the difference having good photos for your brand or business can make when I began traveling as an adult.  A lot of times the make or break decision in where I would eat came down to the quality of the food images. I have always worked for small businesses and understand the passion and commitment that go into them, and having quality images and a  quality web presence can portray that in so many ways.
