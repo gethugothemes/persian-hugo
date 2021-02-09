@@ -20,6 +20,7 @@ sections:
   match: "**/*"
   templates:
   - post
+  - post
 - type: heading
   label: Others Page
 - type: document
