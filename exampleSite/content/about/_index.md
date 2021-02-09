@@ -19,3 +19,9 @@ One of my favorite parts about photography is being able to capture emotions and
 <br>
 
 I worked in the coffeeshop/patissiere industry for several years and that was where my interest in food and product photography began.  I realized the difference having good photos for your brand or business can make when I began traveling as an adult.  A lot of times the make or break decision in where I would eat came down to the quality of the food images. I have always worked for small businesses and understand the passion and commitment that go into them, and having quality images and a  quality web presence can portray that in so many ways.
+
+<br>
+
+I have grown up in the midwest but have had the goal of living in Florida ever since my first visit.  2020 brought that despite everything that happened in the world, and I am so excited to spend more years here. My whole life has been spent around large families, so I have a lot of experience with kids, large groups of people, and making people feel comfortable in all sorts of situations. But I also realize that there are times in life where paying for quality images might be hard to do, so I want to always offer a shoot that can be customized to you.  Your budget, your favorite place, your memories and special moments.
+
+<br>
