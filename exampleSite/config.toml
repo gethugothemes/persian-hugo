@@ -1,30 +1,48 @@
-######################## default configuration ####################
-baseURL = "https://www.example.com"
-title = "Persian"
-theme = "persian"
-languageName = "En"
+baseURL = "abigailjoy.photo.netlify.com"
+disqusShortname = ""
 languageCode = "en-us"
-# post pagination
+languageName = "En"
 paginate = "5"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-
-############################# output ##############################
-[outputs]
-home = [ "HTML", "RSS", "json"]
-
-# render unsafe html
+theme = "persian"
+title = "Persian"
 [markup.goldmark.renderer]
 unsafe = true
-
-############################# Plugins ##############################
-# CSS Plugins
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Category"
+url = "categories/nature/"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 4
+[[menu.main]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 5
+[outputs]
+home = ["HTML", "RSS", "json"]
+[params]
+author = "Themefisher"
+contact_form_action = "#"
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+description = "This is meta description"
+logo = "images/logo.png"
+search = true
+[params.cookies]
+enable = true
+expire_days = 2
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -35,54 +53,6 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-
-################################ menu ##################################
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
-
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
-
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
-
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
-
-
-#################### default parameters ################################
-[params]
-logo = "images/logo.png"
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
-# search  
-search = true
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
-# Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
+preloader = ""
