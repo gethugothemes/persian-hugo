@@ -1,6 +1,9 @@
 ---
 title: Contact
 description: this is meta description
+menu:
+  main:
+    weight: 4
 
 ---
 <form method="post" action="//submit.form" onSubmit="return validateForm();">  
