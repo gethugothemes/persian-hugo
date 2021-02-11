@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = 2021-02-11T05:00:00Z
 description = ""
-draft = true
 image = "/images/img_7120.jpg"
 tags = []
 title = "Welcome"
