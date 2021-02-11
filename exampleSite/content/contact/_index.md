@@ -3,31 +3,76 @@ title: Contact
 description: this is meta description
 
 ---
-    <form netlify name="contact" data-netlify-honeypot="bot-field" action="success">
-      <input
-        class="form-control valid"
-        name="name"
-        id="name"
-        type="text"
-        onfocus="this.placeholder = ''"
-        onblur="this.placeholder = 'Enter your Name'"
-        placeholder="Enter your Name"
-      />
-      <input
-        class="form-control valid"
-        name="email"
-        id="email"
-        type="email"
-        onfocus="this.placeholder = ''"
-        onblur="this.placeholder = 'Enter your Email'"
-        placeholder="Enter your Email"
-      />
-      <input
-        class="hidden"
-        name="bot-field"
-        placeholder="Don't fill this out if you're a human"
-      />
-      <button type="submit" class="button button-contactForm boxed-btn">
-        Sign Up
-      </button>
-    </form>
+<form method="post" action="//submit.form" onSubmit="return validateForm();">  
+<div style="max-width: 400px;">  
+</div>  
+<div style="padding-bottom: 18px;font-size : 36px;">Contact Me</div>  
+<div style="display: flex; padding-bottom: 18px;max-width : 550px;">  
+<div style=" margin-left: 0; margin-right: 1%; width: 49%;">First name<span style="color: red;"> *</span><br/>  
+<input type="text" id="data_2" name="data_2" style="max-width: 100%;" class="form-control"/>  
+</div>  
+<div style=" margin-left: 1%; margin-right: 0; width: 49%;">Last name<span style="color: red;"> *</span><br/>  
+<input type="text" id="data_3" name="data_3" style="max-width: 100%;" class="form-control"/>  
+</div>  
+</div><div style="padding-bottom: 18px;">Email<span style="color: red;"> *</span><br/>  
+<input type="text" id="data_4" name="data_4" style="max-width : 550px;" class="form-control"/>  
+</div>  
+<div style="padding-bottom: 18px;">Phone number<br/>  
+<input type="text" id="data_5" name="data_5" style="max-width : 550px;" class="form-control"/>  
+</div>  
+<div style="padding-bottom: 18px;">How do you prefer to be contacted?<span style="color: red;"> *</span><br/>  
+<span><input type="checkbox" id="data_12_0" name="data_12" value="Text"/> Text</span><br/>  
+<span><input type="checkbox" id="data_12_1" name="data_12" value="Email"/> Email</span><br/>  
+</div>  
+<div style="padding-bottom: 18px;">Type of shoot interested in:<span style="color: red;"> *</span><br/>  
+<textarea id="data_13" false name="data_13" style="max-width : 450px;" rows="2" class="form-control"></textarea>  
+</div>  
+<div style="padding-bottom: 18px;">Desired Date<br/>  
+<input type="text" id="data_14" name="data_14" style="max-width : 450px;" class="form-control"/>  
+</div>  
+<div style="padding-bottom: 18px;">Desired Location<br/>  
+<input type="text" id="data_15" name="data_15" style="max-width : 450px;" class="form-control"/>  
+</div>  
+<div style="padding-bottom: 18px;">Comments and Questions<br/>  
+<textarea id="data_11" false name="data_11" style="max-width : 550px;" rows="6" class="form-control"></textarea>  
+</div>  
+<div style="padding-bottom: 18px;"><input name="skip_Submit" value="Submit" type="submit"/></div>  
+<div>  
+<div style="float:right"><a href="[https://www.100forms.com](https://www.100forms.com "https://www.100forms.com")" id="lnk100" title="form to email">form to email</a></div>  
+<script src="[https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L](https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L "https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L")" type="text/javascript"></script>  
+</div>  
+</form>  
+  
+<script type="text/javascript">  
+function validateForm() {  
+if (isEmpty(document.getElementById('data_2').value.trim())) {  
+alert('First name is required!');  
+return false;  
+}  
+if (isEmpty(document.getElementById('data_3').value.trim())) {  
+alert('Last name is required!');  
+return false;  
+}  
+if (isEmpty(document.getElementById('data_4').value.trim())) {  
+alert('Email is required!');  
+return false;  
+}  
+if (!validateEmail(document.getElementById('data_4').value.trim())) {  
+alert('Email must be a valid email address!');  
+return false;  
+}  
+if (!document.getElementById('data_12_0').checked && !document.getElementById('data_12_1').checked ) {  
+alert('How do you prefer to be contacted? is required!');  
+return false;}  
+if (isEmpty(document.getElementById('data_13').value.trim())) {  
+alert('Type of shoot interested in: is required!');  
+return false;  
+}  
+return true;  
+}  
+function isEmpty(str) { return (str.length === 0 || !str.trim()); }  
+function validateEmail(email) {  
+var re = /^(\[\\w-\]+(?:\\.\[\\w-\]+)*)@((?:\[\\w-\]+\\.)*\\w\[\\w-\]{0,66})\\.(\[a-z\]{2,15}(?:\\.\[a-z\]{2})?)$/i;  
+return isEmpty(email) || re.test(email);  
+}  
+</script>
