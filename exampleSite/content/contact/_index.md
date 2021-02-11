@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: this is meta description
+description: contact me form
 menu:
   main:
     weight: 4
