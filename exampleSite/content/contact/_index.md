@@ -3,23 +3,11 @@ title: Contact
 description: this is meta description
 
 ---
-    <form name="contact" method="POST" data-netlify="true">
-      <p>
-        <label>Your Name: <input type="text" name="name" /></label>   
-      </p>
-      <p>
-        <label>Your Email: <input type="email" name="email" /></label>
-      </p>
-      <p>
-        <label>Your Role: <select name="role[]" multiple>
-          <option value="leader">Leader</option>
-          <option value="follower">Follower</option>
-        </select></label>
-      </p>
-      <p>
-        <label>Message: <textarea name="message"></textarea></label>
-      </p>
-      <p>
-        <button type="submit">Send</button>
-      </p>
-    </form>
+<a name="form1141646879" id="formAnchor1141646879"></a>
+<script src="https://fs23.formsite.com/include/form/embedManager.js?1141646879"></script>
+<script>
+EmbedManager.embed({
+	key: "https://fs23.formsite.com/res/showFormEmbed?EParam=m_OmK8apOTCVWbeW3x8GlWrYe2Y6sJfY&1141646879",
+	width: "100%"
+});
+</script>
