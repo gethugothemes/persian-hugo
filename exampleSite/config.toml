@@ -11,10 +11,6 @@ unsafe = true
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]

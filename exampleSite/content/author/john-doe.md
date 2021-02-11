@@ -9,6 +9,10 @@ social:
   link: "#"
 - icon: ti-github
   link: "#"
+menu:
+  main:
+    name: Home
+    weight: 1
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
