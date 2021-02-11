@@ -4,7 +4,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "5"
 theme = "persian"
-title = "Persian"
+title = "Abigail Joy Photography"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
