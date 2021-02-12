@@ -8,4 +8,4 @@ tags = []
 title = "Welcome"
 
 +++
-Welcome to my website!  Below you will find some of my work!![](/images/img_7120.jpg)![](/images/img_1181.jpg)![](/images/img_0100.jpg)
+Welcome to my website!  Below you will find some of my work! 
