@@ -27,4 +27,3 @@ fields:
   label: tags
 pages:
 - exampleSite/content/post/welcome.md
-- exampleSite/content/privacy-policy/_index.md
