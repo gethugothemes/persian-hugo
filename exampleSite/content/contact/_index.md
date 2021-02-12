@@ -6,11 +6,11 @@ menu:
     weight: 4
 
 ---
-<form name = contact me" method="post" data-netlify="true" action="//submit.form" onSubmit="return validateForm();" >  
+<form method="post" action="//submit.form" onSubmit="return validateForm();">  
 <div style="max-width: 400px;">  
 </div>  
 <div style="padding-bottom: 18px;font-size : 36px;">Contact Me</div>  
-<p style="max-width : 600px;font-size : 12px;">Hello friend! Before I book a shoot, I like to make sure I have gotten to know you a little and know your dreams and goal for your shoot! I want to make each shoot as personalized to you and your style as possible. Start here, and I will send you a message soon! I look foward to talking to you!</p>  
+<p style="max-width : 600px;font-size : 12px;">Hello friend! Before I book a shoot, I like to make sure I have gotten to know you a little and know your goals for your shoot! I want to make each shoot as personalized to you and your style as possible. Start here, and I will send you a message soon! I look foward to talking to you!</p>  
 <div style="display: flex; padding-bottom: 18px;max-width : 550px;">  
 <div style=" margin-left: 0; margin-right: 1%; width: 49%;">First name<span style="color: red;"> *</span><br/>  
 <input type="text" id="data_2" name="data_2" style="max-width: 100%;" class="form-control"/>  
@@ -43,10 +43,10 @@ menu:
 <div style="padding-bottom: 18px;"><input name="skip_Submit" value="Submit" type="submit"/></div>  
 <div>  
 <div style="float:right"><a href="[https://www.100forms.com](https://www.100forms.com "https://www.100forms.com")" id="lnk100" title="form to email">form to email</a></div>  
-<script src="[https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L](https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L "https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L")" type="text/javascript"></script>  
+<script src="[https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L](https://www.100forms.com "https://www.100forms.com")" type="text/javascript"></script>  
 </div>  
-</form>
-
+</form>  
+  
 <script type="text/javascript">  
 function validateForm() {  
 if (isEmpty(document.getElementById('data_2').value.trim())) {  
@@ -76,7 +76,7 @@ return true;
 }  
 function isEmpty(str) { return (str.length === 0 || !str.trim()); }  
 function validateEmail(email) {  
-var re = /^(\[\\w-\]+(?:\\.\[\\w-\]+)_)@((?:\[\\w-\]+\\.)_\\w\[\\w-\]{0,66})\\.(\[a-z\]{2,15}(?:\\.\[a-z\]{2})?)$/i;  
+var re = /^(\[\\w-\]+(?:\\.\[\\w-\]+)*)@((?:\[\\w-\]+\\.)*\\w\[\\w-\]{0,66})\\.(\[a-z\]{2,15}(?:\\.\[a-z\]{2})?)$/i;  
 return isEmpty(email) || re.test(email);  
 }  
 </script>
