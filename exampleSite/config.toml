@@ -8,9 +8,6 @@ title = "Abigail Joy Photography"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact"
-weight = 4
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
