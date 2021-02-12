@@ -2,6 +2,10 @@
 title: About Me
 image: ''
 description: This is meta description.
+menu:
+  main:
+    name: About
+    weight: 2
 
 ---
 

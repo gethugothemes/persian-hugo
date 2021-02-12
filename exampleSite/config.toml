@@ -7,13 +7,6 @@ theme = "persian"
 title = "Abigail Joy Photography"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-name = "Info"
-weight = 3
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]

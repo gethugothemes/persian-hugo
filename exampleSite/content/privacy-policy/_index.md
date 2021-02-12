@@ -8,6 +8,10 @@ categories: []
 tags: []
 email: ''
 social: []
+menu:
+  main:
+    name: Info
+    weight: 3
 
 ---
 **PORTRAIT SHOOTS**
