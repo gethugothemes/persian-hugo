@@ -11,14 +11,8 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
-- type: directory
-  path: exampleSite/content/post
-  label: Post
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-  - post
+- type: heading
+  label: Others Page
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
@@ -30,8 +24,14 @@ sections:
   label: Info
 - type: heading
   label: Blog Post
-- type: heading
-  label: Others Page
+- type: directory
+  path: exampleSite/content/post
+  label: Post
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+  - post
 - type: heading
   label: Configuration
 - type: directory
