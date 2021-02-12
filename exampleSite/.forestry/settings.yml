@@ -11,8 +11,6 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
-- type: heading
-  label: Blog Post
 - type: directory
   path: exampleSite/content/post
   label: Post
@@ -21,8 +19,6 @@ sections:
   templates:
   - post
   - post
-- type: heading
-  label: Others Page
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
@@ -32,6 +28,10 @@ sections:
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Info
+- type: heading
+  label: Blog Post
+- type: heading
+  label: Others Page
 - type: heading
   label: Configuration
 - type: directory
