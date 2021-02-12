@@ -22,7 +22,7 @@ All shoots include:
 * Complimentary styling guide or consultation if desired.
 * Pre session info/checklist emailed to you.
 * A digital gallery of edited images, all downloadable, with the option to purchase a flash drive and/or prints.
-* Location of your choice (some limits apply), or chosen by me based on your desired style/type of shoot. Anywhere within a 35 mile radius is included for free, and I travel anywhere outside of that with a mileage fee. I do travel out of state, but that may include an additional travel fee instead of the mileage fee.
+* Location of your choice (some limits apply), or chosen by me based on your desired style/type of shoot, in a 40 mile radius from me.
 * Photos for up to 8 people.
 * Photo/print release.
 
@@ -66,4 +66,4 @@ At this time I only offer wedding packages for intimate weddings and elopements.
 
 (Up to 50 guests)
 
-Packages are customized to each couple and weddings, but start at $849 and include a minimum of 4 hours of shooting, consultation, and online gallery of edited images. Please contact me for a customized quote!
+Packages are customized to each couple and wedding, but start at $849 and include a minimum of 3 hours of shooting, consultation, and online gallery of edited images. Please contact me for a customized quote!
