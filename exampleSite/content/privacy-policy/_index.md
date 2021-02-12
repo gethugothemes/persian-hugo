@@ -1,5 +1,5 @@
 ---
-title: Info
+title: Session Info
 description: Shoots & Pricing
 
 ---
