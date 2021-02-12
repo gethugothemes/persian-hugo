@@ -8,21 +8,12 @@ title = "Abigail Joy Photography"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Contact"
+weight = 4
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-name = "Info"
-url = "categories/nature/"
-weight = 3
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]

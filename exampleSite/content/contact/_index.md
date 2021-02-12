@@ -1,9 +1,6 @@
 ---
 title: Contact
 description: contact me form
-menu:
-  main:
-    weight: 4
 
 ---
 <form name = contact me" method="post" data-netlify="true" action="//submit.form" onSubmit="return validateForm();" >  
