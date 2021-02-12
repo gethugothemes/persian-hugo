@@ -8,7 +8,6 @@ menu:
     weight: 2
 
 ---
-
 ![](/images/img_9453.jpg)
 
 My name is Abigail (although all my friends call me Abbie!)
@@ -19,7 +18,7 @@ I have been interested in photography since high school, and started dabbling in
 
 <br>
 
-One of my favorite parts about photography is being able to capture emotions and little moments that are so specia; but might even be missed or forgotten if they weren't captured.  I love the little smiles and touches, the connection between people.  Toddlers and younger children are some of my favorite people to shoot because they are so genuine & real and just straight emotion with no filter.
+One of my favorite parts about photography is being able to capture emotions and little moments that are so specia; but might even be missed or forgotten if they weren't captured.  I love the little smiles and touches, the connection between people.  Toddlers and younger children are some of my favorite people to shoot because they are so genuine & real and just straight emotion with no filter. My editing style varies slightly by the style and reason for each shoot, as I love light and color, but also some good moody tones.
 
 <br>
 
