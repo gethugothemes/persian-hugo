@@ -1,6 +1,11 @@
 ---
 title: Session Info
 description: Shoots & Pricing
+image: "/images/img_9457.jpg"
+date: 
+author: ''
+categories: []
+tags: []
 
 ---
 **PORTRAIT SHOOTS**
