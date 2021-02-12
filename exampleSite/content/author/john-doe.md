@@ -15,4 +15,4 @@ menu:
     weight: 1
 
 ---
-Hello friend!  I'm so happy you're here!  
+Hello friend!  I'm so happy you're here!
