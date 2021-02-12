@@ -6,6 +6,9 @@ description = ""
 image = "/images/img_1182.jpg"
 tags = []
 title = "Engagement sessions"
+[menu.main]
+name = "session"
+weight = 5
 
 +++
 ![](/images/img_1149.jpg)![](/images/img_1179-copy.jpg)
