@@ -1,5 +1,5 @@
 +++
-author = "Abigail Steffes"
+author = ""
 categories = []
 date = ""
 description = "faq about my services"
