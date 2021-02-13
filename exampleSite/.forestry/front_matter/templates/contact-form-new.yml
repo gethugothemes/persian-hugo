@@ -2,9 +2,47 @@
 label: Contact form new
 hide_body: false
 fields:
+- name: data_2
+  type: text
+  config:
+    required: true
+  label: Name
 - type: text
-  name: title
-  label: title
+  name: data_4
+  label: Email
+  config:
+    required: true
 - type: text
-  name: description
-  label: description
+  name: data_5
+  label: Phone number
+  config:
+    required: true
+- name: data_12
+  type: text
+  config:
+    required: false
+  label: How do you prefer to be contacted?
+- name: data_13
+  type: text
+  config:
+    required: false
+  label: Type of shoot interested in
+- name: data_14
+  type: text
+  config:
+    required: false
+  label: Desired Date
+- name: data_15
+  type: text
+  config:
+    required: false
+  label: Desired Location
+- name: data_11
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Comments and Questions
