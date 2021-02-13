@@ -8,6 +8,7 @@ menu:
     weight: 1
 
 ---
+
 ![](/images/img_9453.jpg) My name is Abigail (although all my friends call me Abbie!)
 <br>
 I have been interested in photography since high school, and started d	dabbling in it then. My aunt was a photographer and gave me tips & really 	first inspired me to do more with it. I bought my first "real" camera as soon as I graduated in 2012 and have shot part time ever since. At first I shot mostly landscape and nature photos, but in the last 5 years that mostly switched to portraits and other similar interests.
