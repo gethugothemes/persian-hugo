@@ -1,10 +1,10 @@
 ---
 title: Abigail Steffes
-image: "/images/logo-jpeg.jpg"
+image: ''
 email: abigailjoyphoto@gmail.com
 social:
-- icon: ''
-  link: ''
+- icon: "/images/instagram-icon.png"
+  link: https://www.instagram.com/abigail_joy_photography/
 - icon: ti-facebook
   link: "#https://www.facebook.com/AbigailJoyPhotos"
 - icon: ti-twitter-alt
