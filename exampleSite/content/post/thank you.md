@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = ""
 tags = []
-title = ""
+title = "Thank you"
 
 +++
 Thank you for your interest!  I will be in touch soon!
