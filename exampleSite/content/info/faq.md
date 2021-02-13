@@ -12,8 +12,7 @@ title = "FAQ"
 weight = 3
 
 +++
-
-**FAQ**
+**![](/images/img_5475.jpg)FAQ**
 
 **-Do you travel?**
 
