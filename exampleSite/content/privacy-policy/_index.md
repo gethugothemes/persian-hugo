@@ -11,7 +11,7 @@ social: []
 menu:
   main:
     name: Info
-    weight: 3
+    weight: 2
 
 ---
 **PORTRAIT SHOOTS**

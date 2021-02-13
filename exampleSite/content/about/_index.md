@@ -5,7 +5,7 @@ description: This is meta description.
 menu:
   main:
     name: About
-    weight: 2
+    weight: 1
 
 ---
 ![](/images/img_9453.jpg)
