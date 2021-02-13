@@ -7,7 +7,7 @@ image = ""
 tags = []
 title = "FAQ"
 [menu.main]
-weight = 4
+weight = 3
 
 +++
 **FAQ**
