@@ -1,14 +1,14 @@
 ---
 title: Contact
 description: contact me form
-data_2: ''
-data_4: ''
-data_5: ''
-data_12: ''
-data_13: ''
-data_14: ''
-data_15: ''
-data_11: ''
+data_2: Name
+data_4: Email
+data_5: Phone Number
+data_12: How do you prefer to be contacted?
+data_13: 'Type of shoot interested in:'
+data_14: Desired Date
+data_15: Desired Location
+data_11: Comments and Questions
 menu:
   main:
     weight: 4
