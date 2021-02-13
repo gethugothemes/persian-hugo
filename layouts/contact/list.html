@@ -11,9 +11,9 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row col-lg-8 mx-auto">
-      <form action="{{ .Site.Params.contact_form_action }}" method="POST" class="row" onSubmit="return validateForm();"
+      <form action="{{ .Site.Params.contact_form_action }}" name="contact" method="POST" class="row" onSubmit="return validateForm();"
         data-netlify="true">
-        <input type="hidden" name="form-name" value="contact form" />
+        <input type="hidden" name="form-name" value="contact" />
 
         <p class="form-group col-12 text-center">Hello friend! Before I book a shoot, I like to make sure I have
           gotten to know you a little and know your goals for your shoot! I want to make each shoot as personalized to
