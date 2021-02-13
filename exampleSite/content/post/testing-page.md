@@ -8,4 +8,4 @@ tags = []
 title = "Couple sessions"
 
 +++
-testing 
+![](/images/img_1179-copy.jpg)![](/images/img_1210.jpg)
