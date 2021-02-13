@@ -7,12 +7,11 @@ email = ""
 image = "/images/faq-header-test.jpg"
 social = []
 tags = []
-title = "FAQ"
+title = ""
 [menu.main]
 weight = 3
 
 +++
- **FAQ**
 
 **-Do you travel?**
 
