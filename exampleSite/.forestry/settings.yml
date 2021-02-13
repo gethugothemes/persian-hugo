@@ -5,11 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: examplesite/content
+  path: exampleSite/content
   label: Content
   create: all
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - post
+  - author
+  - contact-form-new
 - type: heading
   label: Author
 - type: directory
