@@ -22,6 +22,5 @@ fields:
     name: link
     label: link
 pages:
-- exampleSite/content/info/faq.md
 - exampleSite/content/privacy-policy/_index.md
 - exampleSite/content/privacy-policy/_index.md
