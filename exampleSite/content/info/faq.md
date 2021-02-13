@@ -1,12 +1,12 @@
 +++
-author = ""
+author = "Abigail Steffes"
 categories = []
 date = ""
 description = "faq about my services"
 email = ""
 image = "/images/faq-header-test.jpg"
 social = []
-tags = []
+tags = ["session info"]
 title = ""
 [menu.main]
 weight = 3
