@@ -3,8 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/kids-header.jpg"
 tags = []
 title = "Kids"
 

@@ -3,8 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/maternity-header.jpg"
 tags = []
 title = "Maternity"
 
