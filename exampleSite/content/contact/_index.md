@@ -6,7 +6,9 @@ menu:
     weight: 4
 
 ---
-<form method="post" name="contact form" action="//submit.form"  onSubmit="return validateForm();" data-netlify="true">  
+<form method="post" name="contact form" action="//submit.form"  onSubmit="return validateForm();" data-netlify="true"> 
+
+<input type="hidden" name="form-name" value="contact form" />  
 <div style="max-width: 400px;">  
 </div>  
 <div style="padding-bottom: 18px;font-size : 36px;">Contact Me</div>  
