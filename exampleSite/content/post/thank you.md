@@ -3,7 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/thank-you-header.jpg"
 tags = []
 title = "Thank you"
 
