@@ -6,6 +6,6 @@ description = ""
 draft = true
 image = ""
 tags = []
-title = " Product branding"
+title = "Branding"
 
 +++
