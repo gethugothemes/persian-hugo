@@ -46,3 +46,5 @@ fields:
     schema:
       format: markdown
   label: Comments and Questions
+pages:
+- exampleSite/content/contact/_index.md

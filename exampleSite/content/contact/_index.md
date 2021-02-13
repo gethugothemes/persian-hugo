@@ -1,6 +1,14 @@
 ---
 title: Contact
 description: contact me form
+data_2: ''
+data_4: ''
+data_5: ''
+data_12: ''
+data_13: ''
+data_14: ''
+data_15: ''
+data_11: ''
 menu:
   main:
     weight: 4
