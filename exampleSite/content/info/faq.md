@@ -4,7 +4,7 @@ categories = []
 date = ""
 description = ""
 email = ""
-image = "/images/logo-jpeg.jpg"
+image = ""
 social = []
 tags = []
 title = "FAQ"
@@ -12,7 +12,7 @@ title = "FAQ"
 weight = 3
 
 +++
-**![](/images/img_5475.jpg)FAQ**
+ **FAQ**
 
 **-Do you travel?**
 
