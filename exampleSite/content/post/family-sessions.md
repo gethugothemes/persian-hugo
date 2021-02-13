@@ -3,8 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/family-header.jpg"
 tags = []
 title = "Family Sessions"
 

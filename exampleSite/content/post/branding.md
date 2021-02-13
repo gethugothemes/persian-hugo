@@ -3,8 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/branding-header.jpg"
 tags = []
 title = "Branding"
 
