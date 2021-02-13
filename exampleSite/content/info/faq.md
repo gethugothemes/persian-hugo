@@ -3,7 +3,9 @@ author = ""
 categories = []
 date = ""
 description = ""
+email = ""
 image = ""
+social = []
 tags = []
 title = "FAQ"
 [menu.main]
