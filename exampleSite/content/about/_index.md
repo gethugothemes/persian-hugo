@@ -8,7 +8,7 @@ menu:
     weight: 1
 
 ---
-<img src="/images/img_9453.jpg" align="left">
+<img src="/images/img_9453.jpg" align="left" width="400" height="600" hspace="20" vspace="20">
 
 My name is Abigail (although all my friends call me Abbie!) 
 
