@@ -3,8 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/senior-header.jpg"
 tags = []
 title = "Seniors"
 
