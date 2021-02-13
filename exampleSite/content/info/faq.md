@@ -6,7 +6,7 @@ description = "faq about my services"
 email = ""
 image = "/images/faq-header-test.jpg"
 social = []
-tags = ["session info"]
+tags = []
 title = "FAQ"
 [menu.main]
 weight = 3
