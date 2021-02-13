@@ -8,10 +8,6 @@ categories: []
 tags: []
 email: ''
 social: []
-menu:
-  main:
-    name: Info
-    weight: 2
 
 ---
 **PORTRAIT SHOOTS**
@@ -26,9 +22,15 @@ All shoots include:
 * Photos for up to 8 people.
 * Photo/print release.
 
+
+
+
 **Portrait Packages**
 
-$175
+
+
+
+**$175**
 
 30 minutes
 
@@ -38,7 +40,9 @@ $175
 
 A minimum of 20 images
 
-$299
+
+
+**$299**
 
 1 hour of shooting
 
@@ -48,7 +52,9 @@ $299
 
 A minimum of 45 images
 
-$799
+
+
+**$799**
 
 Up to 3 hours of shooting
 
@@ -59,6 +65,12 @@ Multiple locations
 A minimum of 70 images
 
 Bonus print bundle consisting of up to 4 prints of your choice, with multiple size options included.
+
+
+
+
+
+
 
 **WEDDINGS**
 

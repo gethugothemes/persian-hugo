@@ -7,9 +7,8 @@ email = ""
 image = "/images/faq-header-test.jpg"
 social = []
 tags = ["session info"]
-title = ""
+title = "FAQ"
 [menu.main]
-name = "FAQ"
 weight = 3
 
 +++
