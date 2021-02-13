@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = "/images/img_7569.jpg"
 tags = []
-title = "Welcome "
+title = ""
 
 +++
-Welcome
+![](/images/logo.png)
