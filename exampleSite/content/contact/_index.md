@@ -6,7 +6,7 @@ menu:
     weight: 4
 
 ---
-<form method="post" name="contact form" action="//submit.form"  onSubmit="return validateForm();" data-netlify="true"> 
+<form method="post" name="contact form" action="//submit.form"  onSubmit="return validateForm();" data-netlify="true">
 
 <input type="hidden" name="form-name" value="contact form" />  
 <div style="max-width: 400px;">  
@@ -14,7 +14,7 @@ menu:
 <div style="padding-bottom: 18px;font-size : 36px;">Contact Me</div>  
 <p style="max-width : 600px;font-size : 12px;">Hello friend! Before I book a shoot, I like to make sure I have gotten to know you a little and know your goals for your shoot! I want to make each shoot as personalized to you and your style as possible. Start here, and I will send you a message soon! I look foward to talking to you!</p>  
 <div style="display: flex; padding-bottom: 18px;max-width : 550px;">  
-<div style=" margin-left: 0; margin-right: 1%; width: 49%;">First name<span style="color: red;"> *</span><br/>  
+<div style=" margin-left: 0; margin-right: 1%; width: 49%;">Name<span style="color: red;"> *</span><br/>  
 <input type="text" id="data_2" name="data_2" style="max-width: 100%;" class="form-control"/>  
 </div>  
 <div style=" margin-left: 1%; margin-right: 0; width: 49%;">Last name<span style="color: red;"> *</span><br/>  
