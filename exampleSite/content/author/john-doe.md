@@ -1,6 +1,6 @@
 ---
 title: Abigail Steffes
-image: ''
+image: "/images/logo-jpeg.jpg"
 email: abigailjoyphoto@gmail.com
 social:
 - icon: ''
