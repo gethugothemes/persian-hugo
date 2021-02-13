@@ -14,7 +14,7 @@ author = "Themefisher"
 contact_form_action = "#"
 copyright = ""
 description = "This is meta description"
-logo = "/images/logo-header.jpg"
+logo = "/images/logo-jpeg.jpg"
 search = true
 [params.cookies]
 enable = true
