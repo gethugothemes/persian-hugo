@@ -12,11 +12,10 @@ menu:
 
 My name is Abigail (although all my friends call me Abbie!) 
 
-<br>
 I have been interested in photography since high school, and started dabbling in it then. My aunt was a photographer and gave me tips & really 	first inspired me to do more with it. I bought my first "real" camera as soon as I graduated in 2012 and have shot part time ever since. At first I shot mostly landscape and nature photos, but in the last 5 years that mostly switched to portraits and other similar interests.
 
 <br clear="left"/>
-<br>
+
 One of my favorite parts about photography is being able to capture emotions and little moments that are so special but might even be missed or forgotten if they weren't captured. I love the little smiles and touches, the connection between people. Toddlers and younger children are some of my favorite people to shoot because they are so genuine & real and just straight emotion with no filter. Photos capture a moment in time that can bring back all the emotions and memories you felt at that moment.
 
 <br> 
