@@ -3,9 +3,9 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/couples-header.jpg"
 tags = []
-title = "testing page"
+title = "Couple sessions"
 
 +++
+testing 
