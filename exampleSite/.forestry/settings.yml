@@ -10,9 +10,6 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
-  templates:
-  - post
-  - author
 - type: heading
   label: Author
 - type: directory
