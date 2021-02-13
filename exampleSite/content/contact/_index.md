@@ -6,7 +6,7 @@ menu:
     weight: 4
 
 ---
-<form method="post" action="//submit.form" onSubmit="return validateForm();">  
+<form method="post" name="contact form" action="//submit.form" data-netlify="true">  
 <div style="max-width: 400px;">  
 </div>  
 <div style="padding-bottom: 18px;font-size : 36px;">Contact Me</div>  
@@ -45,8 +45,8 @@ menu:
 <div style="float:right"><a href="[https://www.100forms.com](https://www.100forms.com "https://www.100forms.com")" id="lnk100" title="form to email">form to email</a></div>  
 <script src="[https://www.100forms.com/js/FORMKEY:72UM3XRW3J6L](https://www.100forms.com "https://www.100forms.com")" type="text/javascript"></script>  
 </div>  
-</form>  
-  
+</form>
+
 <script type="text/javascript">  
 function validateForm() {  
 if (isEmpty(document.getElementById('data_2').value.trim())) {  
@@ -76,7 +76,7 @@ return true;
 }  
 function isEmpty(str) { return (str.length === 0 || !str.trim()); }  
 function validateEmail(email) {  
-var re = /^(\[\\w-\]+(?:\\.\[\\w-\]+)*)@((?:\[\\w-\]+\\.)*\\w\[\\w-\]{0,66})\\.(\[a-z\]{2,15}(?:\\.\[a-z\]{2})?)$/i;  
+var re = /^(\[\\w-\]+(?:\\.\[\\w-\]+)_)@((?:\[\\w-\]+\\.)_\\w\[\\w-\]{0,66})\\.(\[a-z\]{2,15}(?:\\.\[a-z\]{2})?)$/i;  
 return isEmpty(email) || re.test(email);  
 }  
 </script>
