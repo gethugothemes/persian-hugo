@@ -3,8 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
-image = ""
+image = "/images/special-memories-header.jpg"
 tags = []
 title = "Special Memories"
 
