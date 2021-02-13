@@ -2,7 +2,7 @@
 author = ""
 categories = []
 date = ""
-description = ""
+description = "faq about my services"
 email = ""
 image = "/images/faq-header-test.jpg"
 social = []
