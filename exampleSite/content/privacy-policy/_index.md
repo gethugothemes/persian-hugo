@@ -1,13 +1,17 @@
 ---
 title: Session Info
 description: Shoots & Pricing
-image: ''
+image: "/images/thank-you-header.jpg"
 date: ''
 author: ''
 categories: []
 tags: []
 email: ''
 social: []
+menu:
+  main:
+    name: Info
+    weight: 2
 
 ---
 **PORTRAIT SHOOTS**
