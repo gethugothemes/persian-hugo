@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["couple shoots"]
+categories = ["Families", "Branding", "Couples", "Portraits", "Couples"]
 date = 2021-02-11T05:00:00Z
 description = ""
 image = "/images/img_7569.jpg"
