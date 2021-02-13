@@ -2,7 +2,7 @@
 author = ""
 categories = []
 date = ""
-description = "welcome image"
+description = ""
 image = "/images/img_7569.jpg"
 tags = []
 title = "WELCOME"
