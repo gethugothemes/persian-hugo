@@ -9,7 +9,7 @@ fields:
   type: text
   config:
     required: false
-  label: Date
+  label: date
 - type: file
   name: image
   label: image
