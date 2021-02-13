@@ -29,7 +29,9 @@ fields:
   label: tags
 pages:
 - exampleSite/content/info/faq.md
+- exampleSite/content/post/branding-products.md
 - exampleSite/content/post/family-sessions.md
+- exampleSite/content/post/kids.md
 - exampleSite/content/post/maternity.md
 - exampleSite/content/post/testing-page.md
 - exampleSite/content/post/testing-page.md
