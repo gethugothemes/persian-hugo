@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: header
+  type: file
+  config:
+    maxSize: 64
+  label: Header
 - type: text
   name: date
   label: date
