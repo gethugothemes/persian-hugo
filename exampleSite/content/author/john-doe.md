@@ -11,7 +11,4 @@ social:
   link: "#"
 
 ---
-
 Hello friend!  I'm so happy you're here!
-
-![](/images/img_7562.jpg "white sands shoot")![](/images/img_7170.jpg)
