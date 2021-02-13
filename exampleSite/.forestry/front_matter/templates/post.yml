@@ -26,6 +26,7 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/info/faq.md
 - exampleSite/content/post/testing-page.md
 - exampleSite/content/post/testing-page.md
 - exampleSite/content/post/thank you.md
