@@ -26,6 +26,8 @@ All shoots include:
 * Photos for up to 8 people.
 * Photo/print release.
 
+<br>
+
 **Portrait Packages**
 
 **$175**
@@ -59,6 +61,8 @@ Multiple locations
 A minimum of 70 images
 
 Bonus print bundle consisting of up to 4 prints of your choice, with multiple size options included.
+
+<br>
 
 **WEDDINGS**
 
