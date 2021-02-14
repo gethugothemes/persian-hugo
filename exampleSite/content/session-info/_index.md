@@ -28,6 +28,10 @@ All shoots include:
 
 <br>
 
+<br> 
+
+
+
 **Portrait Packages**
 
 **$175**
@@ -63,6 +67,11 @@ A minimum of 70 images
 Bonus print bundle consisting of up to 4 prints of your choice, with multiple size options included.
 
 <br>
+
+
+
+<br>
+
 
 **WEDDINGS**
 
