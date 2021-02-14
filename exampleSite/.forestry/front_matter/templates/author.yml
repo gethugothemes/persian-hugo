@@ -12,4 +12,4 @@ fields:
   name: email
   label: email
 pages:
-- exampleSite/content/privacy-policy/_index.md
+- exampleSite/content/faq/faq.md

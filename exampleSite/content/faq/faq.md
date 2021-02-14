@@ -12,7 +12,6 @@ title = "FAQ"
 weight = 3
 
 +++
-
 **-Do you travel?**
 
 Yes! I will go anywhere within a 40 mile radius for any shoot, for no additional cost. Outside of the 40 miles, I add on a mileage fee. I also travel out of state (some restrictions may apply currently), but there is a travel fee added on instead of the mileage fee. The travel fee varies slightly by location, but expect a minimum of $350. If I am booking more than one session in your area, that fee may be split between clients! So tell your friends! ;)
