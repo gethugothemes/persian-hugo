@@ -12,4 +12,5 @@ fields:
   name: email
   label: email
 pages:
+- exampleSite/content/faq.md
 - exampleSite/content/faq/faq.md
