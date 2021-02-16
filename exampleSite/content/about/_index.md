@@ -20,8 +20,7 @@ One of my favorite parts about photography is being able to capture emotions and
 
 <br>
 
-
-I worked in the coffeeshop/patissiere industry for several years and that was where my interest in food and product photography began. I realized the difference having good photos for your brand or business can make when I began meeting other business owners, and visiting new spots as I traveled. A lot of times the make or break decision in where I would eat or shop came down to the quality of the images on their social media. I have always worked for small businesses and understand the passion and commitment that go into them, and having quality images and a quality web presence can help portray that.
+I worked in the coffeeshop/patissiere industry for several years and that was where my interest in food and product photography began. I realized the difference having good photos for your brand or business can make when I began meeting other business owners and visiting new spots as I traveled. A lot of times the make or break decision in where I would eat or shop came down to the quality of the images on their social media and how their brand came across thru that. I have always worked for small businesses and understand the passion and commitment that go into them, and having quality images and a quality web presence can help portray that.
 
 <br>
 
