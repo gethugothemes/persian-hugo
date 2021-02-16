@@ -11,8 +11,8 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row col-lg-8 mx-auto">
-      <form action="{{ .Site.Params.contact_form_action }}" name="contact" method="POST" class="row" onSubmit="return validateForm();"
-        data-netlify="true">
+      <form action="{{ .Site.Params.contact_form_action }}" name="contact" method="POST" class="row"
+        onSubmit="return validateForm();" data-netlify="true">
         <input type="hidden" name="form-name" value="contact" />
 
         <p class="form-group col-12 text-center">Hello friend! Before I book a shoot, I like to make sure I have
@@ -30,42 +30,42 @@
           <input type="text" name="phone" id="phone" class="form-control" placeholder="Phone Number">
         </div>
         <div class="form-group col-12">How do you prefer to be contacted?
-          <div class="my-2"/>
+          <div class="my-2" />
 
-          <div class="form-check"></div>
-          <input class="form-check-input" type="checkbox" id="data_12_0" name="data_12"
-              value="Text" />
-              <label class="form-check-label" for="data_12_0">Text</label>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="data_12_0" name="data_12" value="Text" />
+            <label class="form-check-label" for="data_12_0">Text</label>
+          </div>
+          <div class="my-2" />
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="data_12_1" name="data_12" value="Email" />
+            <label class="check-form-label" for="data_12_1">Email</label>
+          </div>
         </div>
-        <div class="my-2"/>
-        <div class="form-check"></div>
-              <input class="form-check-input" type="checkbox" id="data_12_1" name="data_12"
-              value="Email" />
-              <label class="check-form-label" for="data_12_1">Email</label>
-      </div>
-            </div>
-
-
-            <div class="form-group col-12">
-              <textarea name="message" id="data_13" name="data_13" class="form-control"
-                placeholder="Type of Photoshoot interested in"></textarea>
-            </div>
-        <div class="form-group col-md-6">
-          <input type="text" name="data_14" id="data_14" class="form-control" placeholder="Desired Date">
-        </div>
-        <div class="form-group col-md-6">
-          <input type="text" name="data_15" id="data_15" class="form-control" placeholder="Desired Location">
-        </div>
-
-        <div class="form-group col-12">
-          <textarea name="message" id="data_11" name="data_11" class="form-control"
-            placeholder="Comments and Questions"></textarea>
-        </div>
-        <div class="col-12 text-center">
-          <button class="btn btn-primary" type="submit">Send now</button>
-        </div>
-      </form>
     </div>
+
+  </div>
+
+  <div class="form-group col-12">
+    <textarea name="message" id="data_13" name="data_13" class="form-control"
+      placeholder="Type of Photoshoot interested in"></textarea>
+  </div>
+  <div class="form-group col-md-6">
+    <input type="text" name="data_14" id="data_14" class="form-control" placeholder="Desired Date">
+  </div>
+  <div class="form-group col-md-6">
+    <input type="text" name="data_15" id="data_15" class="form-control" placeholder="Desired Location">
+  </div>
+
+  <div class="form-group col-12">
+    <textarea name="message" id="data_11" name="data_11" class="form-control"
+      placeholder="Comments and Questions"></textarea>
+  </div>
+  <div class="col-12 text-center">
+    <button class="btn btn-primary" type="submit">Send now</button>
+  </div>
+  </form>
+  </div>
   </div>
 </section>
 <script
