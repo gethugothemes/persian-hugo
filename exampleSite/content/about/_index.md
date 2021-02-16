@@ -24,8 +24,8 @@ I worked in the coffeeshop/patissiere industry for several years and that was wh
 
 <br>
 
-I have grown up in the midwest but have had the goal of living in Florida ever since my first visit. 2020 brought that despite everything that happened in the world, and I am so excited to spend more years here. My whole life has been spent around large families, so I have a lot of experience with kids, large groups of people, and making people feel comfortable in all sorts of situations.
+I have grown up in the midwest but have had the goal of living in Florida ever since my first visit. 2020 brought that around despite everything that happened in the world, and I am so excited to spend more years here. My whole life has been spent around large families, so I have a lot of experience with kids, large groups of people, and making people feel comfortable in all sorts of situations.
 
 <br>
 
-My editing style varies slightly by shoot and style, as I love light and color, but also some good moody tones. I want to be able to give you a photoshoot that is as special as you, wether that is through capturing a special day, shooting at a spot that is memorable to you, encapturing what makes your brand or business unique, capturing a special time in your life with family, or just photographing you as the special person you are. I love meeting people and hearing their stories, and can't wait to meet you!
+My editing style varies slightly by shoot and style, as I love light and color, but also love some good moody tones. I want to be able to give you a photoshoot that is as special as you, wether that is through capturing a special day, shooting at a spot that is memorable to you, encapturing what makes your brand or business unique, capturing a special time in your life with family, or just photographing you as the special person you are. I love meeting people and hearing their stories, and can't wait to meet you!
