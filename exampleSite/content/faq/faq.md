@@ -9,6 +9,7 @@ social = []
 tags = []
 title = ""
 [menu.main]
+name = "FAQ"
 weight = 3
 
 +++
