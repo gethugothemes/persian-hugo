@@ -12,7 +12,6 @@ title = ""
 weight = 3
 
 +++
-**FAQ**
 
 **-Do you travel?**
 
