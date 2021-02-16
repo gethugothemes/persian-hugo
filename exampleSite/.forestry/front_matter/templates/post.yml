@@ -28,6 +28,7 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/faq/faq.md
 - exampleSite/content/post/branding-products.md
 - exampleSite/content/post/branding-products.md
 - exampleSite/content/post/branding.md

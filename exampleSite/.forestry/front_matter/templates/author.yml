@@ -11,5 +11,3 @@ fields:
 - type: text
   name: email
   label: email
-pages:
-- exampleSite/content/faq/faq.md
