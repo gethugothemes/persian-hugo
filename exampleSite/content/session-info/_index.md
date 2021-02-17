@@ -72,6 +72,6 @@ Bonus print bundle consisting of up to 4 prints of your choice, with multiple si
 
 At this time I only offer wedding packages for intimate weddings and elopements.
 
-(Up to 50 guests)
+(Usually up to 50 guests)
 
-Packages are customized to each couple and wedding, but start at $849 and include a minimum of 3 hours of shooting, a consultation, and online gallery of edited images. Please contact me for a customized quote!
+Packages are customized to each couple and wedding, but start at $849 and include a minimum of 3 hours of shooting, a consultation, and online gallery of edited images. Please contact me for a customized quote! 
