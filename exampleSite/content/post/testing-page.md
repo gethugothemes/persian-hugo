@@ -8,6 +8,10 @@ tags = []
 title = "Couple sessions"
 
 +++
+You don't have to be engaged to get a shoot of you and your special person!  Love is always worth celebrating and having photos of.  
+
+Sessions begin at $175.  See my info page for more details.
+
 ![](/images/img_1179-copy.jpg)
 
 ![](/images/img_1210.jpg)
