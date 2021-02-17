@@ -8,6 +8,8 @@ tags = []
 title = "Portraits"
 
 +++
+I offer a wide variety of portrait shoots, anything from just because, to couples and families.   Sessions start at $175.  For more details about my portrait sessions, see my info page.
+
 ![](/images/img_7170.jpg)
 
 ![](/images/img_7569.jpg)
