@@ -8,7 +8,9 @@ tags = []
 title = "Maternity"
 
 +++
-Being pregnant is an amazing special experience and maternity photos capture the emotions and memories of that time for you to relive in the future. I also offer gender reveal and announcement shoots!  Sessions start at $175.  See my info page for more details.
+Being pregnant is an amazing special experience and maternity photos capture the emotions and memories of that time for you to relive in the future. I also offer gender reveal and announcement shoots!  
+
+Sessions start at $175.  See my info page for more details.
 
 ![](/images/img_5221.jpg)
 
