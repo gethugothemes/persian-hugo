@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = "/images/wedding-header.jpg"
 tags = []
 title = "WEDDINGS"
