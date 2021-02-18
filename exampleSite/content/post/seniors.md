@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = "/images/senior-header.jpg"
 tags = []
-title = "Seniors"
+title = "SENIORS"
 
 +++
 My senior sessions are customized to you and your style. This includes finding the perfect location and light to match not just your outfit and style, but your personality too! 

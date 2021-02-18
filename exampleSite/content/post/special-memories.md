@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = "/images/special-memories-header.jpg"
 tags = []
-title = "Special Memories"
+title = "SPECIAL MEMORIES"
 
 +++
 Sometimes life brings those special occasions or meaningful events that you want to preserve forever.  This doesn't have to be just another type of portrait shoot, it can also be an event or announcement! 
