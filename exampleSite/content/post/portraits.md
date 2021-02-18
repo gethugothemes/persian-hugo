@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = "/images/portraits-header.jpg"
 tags = []
-title = "Portraits"
+title = "PORTRAITS"
 
 +++
 I offer a wide variety of portrait shoots, anything from just because, to couples and families.

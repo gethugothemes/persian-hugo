@@ -5,7 +5,7 @@ date = ""
 description = ""
 image = "/images/couples-header.jpg"
 tags = []
-title = "Couple sessions"
+title = "COUPLE SESSIONS"
 
 +++
 You don't have to be engaged to get a shoot of you and your special person!  Love is always worth celebrating and having photos of.  
