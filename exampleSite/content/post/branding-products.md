@@ -12,4 +12,28 @@ Working in the food industry and meeting a variety of small business owners, mad
 
 ![](/images/cake-bakery-branding-photos-tampa2.jpg)
 
+![](/images/lemon-tarts-bakery-tampa-branding.jpg)
+
+![](/images/lemon-tarts-bakery-tampa-branding2.jpg)
+
+![](/images/cake-bakery-branding-photos-tampa.jpg)
+
+![](/images/macaraons-european-french-branding-tampa.jpg)
+
+![](/images/copper-ashtray-branding-product-photos.jpg)
+
+![](/images/copper-ashtray-branding-product-photos-tampa.jpg)
+
+![](/images/cake-branding-restaurant-bakery-branding-tampa.jpg)
+
+![](/images/ice-cream-restaurant-branding-photos-tampa.jpg)
+
+![](/images/chocolate-cookie-bakery-branding-tampa.jpg)
+
+![](/images/restaurant-cafe-branding-tampa.jpg)
+
+![](/images/smoothies-cafe-restaurant-branding-tampa.jpg)
+
+![](/images/cafe-restaurant-branding-tampa.jpg)![](/images/wrap-lunch-branding-restaurant-tampa.jpg)
+
 ![](/images/drinks-lemonade-restaurant-branding-tampa.jpg)
