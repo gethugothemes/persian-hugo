@@ -334,6 +334,9 @@ mark {
     flex-direction: column;
     text-align: center;
     justify-content: center; }
+    @media (max-width: 400px) {
+      .post-content {
+        padding: 5px; } }
     .post-content * {
       position: relative;
       z-index: 1; }
@@ -355,6 +358,9 @@ mark {
     @media (max-width: 575px) {
       .post-date {
         zoom: .7; } }
+    @media (max-width: 400px) {
+      .post-date {
+        zoom: .5; } }
     .post-date span {
       display: block;
       text-transform: uppercase; }
@@ -374,6 +380,10 @@ mark {
     @media (max-width: 575px) {
       .post-title {
         font-size: 1.2rem; } }
+    @media (max-width: 400px) {
+      .post-title {
+        font-size: 1.1rem;
+        margin-bottom: 5px; } }
     .post-title a {
       color: inherit; }
   .post-meta i {
@@ -382,13 +392,15 @@ mark {
     text-transform: uppercase; }
     .post-meta a:hover {
       color: #222; }
-  .post .post-meta i {
-    color: #fff; }
-  .post .post-meta a {
-    color: #fff; }
-    @media (max-width: 575px) {
-      .post .post-meta a {
-        font-size: 12px; } }
+  .post .post-meta {
+    margin-bottom: 0; }
+    .post .post-meta i {
+      color: #fff; }
+    .post .post-meta a {
+      color: #fff; }
+      @media (max-width: 575px) {
+        .post .post-meta a {
+          font-size: 12px; } }
   .post-sm .post-title {
     font-size: 1.7rem; }
     @media (max-width: 575px) {
@@ -403,7 +415,9 @@ mark {
 
 .facts {
   text-align: center; }
-  .facts h1, .facts h2, .facts h3 {
+  .facts h1,
+  .facts h2,
+  .facts h3 {
     display: inline-block;
     border-bottom: 1px solid #000;
     margin-bottom: 20px; }
