@@ -27,7 +27,7 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: about-image
+- name: avatar
   type: file
   config:
     maxSize: 64
