@@ -5,10 +5,6 @@
     <div class="post">
       <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
       <div class="post-content">
-        <div class="post-date">
-          <span>{{ .PublishDate.Format "02" }}</span>
-          <span>{{ .PublishDate.Format "Jan" }}</span>
-        </div>
         <h2 class="post-title">{{ .Title }}</h2>
       </div>
     </div>
