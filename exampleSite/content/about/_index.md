@@ -3,6 +3,7 @@ title: About Me
 image: ''
 description: This is meta description.
 about-image: "/images/img_9453.jpg"
+avatar: "/images/img_9453.jpg"
 menu:
   main:
     name: About
