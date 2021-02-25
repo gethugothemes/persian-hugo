@@ -15,8 +15,15 @@
 
 <section class="section">
   <div class="container">
-    <div class="col-lg-8 mx-auto">
-      <div class="content">{{.Content}}</div>
+    <div class="row">
+      <div class="col-md-6 col-8 mx-auto">
+        {{ with .Params.about-image }}
+        <img src="{{ . | absURL }}" alt="author" class="img-fluid">
+        {{ end }}
+      </div>
+      <div class="col-md-6 col-8 mx-auto">
+        <div class="content">{{.Content}}</div>
+      </div>
     </div>
   </div>
 </section>
