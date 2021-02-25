@@ -31,7 +31,7 @@ fields:
   type: file
   config:
     maxSize: 64
-  label: about-image
+  label: about image
   description: only used for about page
 pages:
 - exampleSite/content/faq/faq.md
