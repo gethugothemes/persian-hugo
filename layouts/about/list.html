@@ -17,7 +17,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-8 mx-auto">
-        {{ with .aboutImage }}
+        {{ with Params.AboutImage }}
         <img src="{{ . | absURL }}" alt="author" class="img-fluid">
         {{ end }}
       </div>
