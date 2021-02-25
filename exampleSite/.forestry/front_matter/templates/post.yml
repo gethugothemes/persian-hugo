@@ -27,6 +27,12 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: about-image
+  type: file
+  config:
+    maxSize: 64
+  label: about-image
+  description: only used for about page
 pages:
 - exampleSite/content/faq/faq.md
 - exampleSite/content/post/branding-products.md
@@ -49,6 +55,7 @@ pages:
 - exampleSite/content/post/testing-page.md
 - exampleSite/content/post/thank you.md
 - exampleSite/content/post/thank you.md
+- exampleSite/content/post/weddings.md
 - exampleSite/content/post/weddings.md
 - exampleSite/content/post/welcome.md
 - exampleSite/content/post/welcome.md
