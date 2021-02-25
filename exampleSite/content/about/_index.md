@@ -2,21 +2,18 @@
 title: About Me
 image: ''
 description: This is meta description.
+about-image: "/images/img_9453.jpg"
 menu:
   main:
     name: About
     weight: 1
 
 ---
-<img src="/images/img_9453.jpg" align="left" width="400" height="600" hspace="20" vspace="20">
-
 My name is Abigail (although all my friends call me Abbie!)
 
 I have been interested in photography since high school, and started dabbling in it then. My aunt was a photographer and gave me tips & really 	first inspired me to do more with it. I bought my first "real" camera as soon as I graduated in 2012 and have shot part time ever since.
 
 One of my favorite parts about photography is being able to capture emotions and little moments that are so special but might even be missed or forgotten if they weren't captured. I love the little smiles and touches, the connection between people. Toddlers and younger children are some of my favorite people to shoot because they are so genuine & real and just straight emotion with no filter. Photos capture a moment in time that can bring back all the emotions and memories you felt at that moment.
-
-<br clear="left"/>
 
 <br>
 
@@ -24,7 +21,7 @@ I worked in the coffeeshop/patissiere industry for several years and that was wh
 
 <br>
 
-I have grown up in the midwest but have had the goal of living in Florida ever since my first visit. 2020 brought that around despite everything that happened in the world, and I am so excited to spend more years here. 
+I have grown up in the midwest but have had the goal of living in Florida ever since my first visit. 2020 brought that around despite everything that happened in the world, and I am so excited to spend more years here.
 
 <br>
 
