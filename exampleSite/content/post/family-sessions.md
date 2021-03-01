@@ -1,8 +1,9 @@
 +++
 author = ""
+avatar = ""
 categories = []
 date = ""
-description = ""
+description = "family photoshoots"
 image = "/images/family-header.jpg"
 tags = []
 title = "FAMILY SESSIONS"

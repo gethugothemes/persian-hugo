@@ -1,8 +1,9 @@
 +++
 author = ""
+avatar = ""
 categories = []
 date = ""
-description = ""
+description = "intimate weddings and elopements"
 image = "/images/wedding-header.jpg"
 tags = []
 title = "INTIMATE WEDDINGS"

@@ -1,8 +1,9 @@
 +++
 author = ""
+avatar = ""
 categories = []
 date = ""
-description = ""
+description = "couples and engagements"
 image = "/images/couples-header.jpg"
 tags = []
 title = "COUPLE SESSIONS"
