@@ -1,8 +1,9 @@
 +++
 author = ""
+avatar = ""
 categories = []
 date = ""
-description = ""
+description = "maternity photographer tampa"
 image = "/images/maternity-header.jpg"
 tags = []
 title = "MATERNITY"

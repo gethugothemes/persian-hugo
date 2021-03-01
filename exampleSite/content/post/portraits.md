@@ -1,5 +1,6 @@
 +++
-author = ""
+author = "portrait photography tampa "
+avatar = ""
 categories = []
 date = ""
 description = ""
