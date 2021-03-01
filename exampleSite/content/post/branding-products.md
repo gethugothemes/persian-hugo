@@ -1,9 +1,9 @@
 +++
-author = "product and food photographer tampa"
+author = ""
 avatar = ""
 categories = []
 date = ""
-description = ""
+description = "product and food photographer tampa"
 image = "/images/product-header.jpg"
 tags = []
 title = "PRODUCT AND FOOD PHOTOGRAPHY"

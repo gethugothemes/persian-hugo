@@ -1,9 +1,9 @@
 +++
-author = "special-memories"
+author = ""
 avatar = ""
 categories = []
 date = ""
-description = ""
+description = "special-memories"
 image = "/images/special-memories-header.jpg"
 tags = []
 title = "SPECIAL MEMORIES"

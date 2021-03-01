@@ -1,9 +1,9 @@
 +++
-author = "portrait photography tampa "
+author = ""
 avatar = ""
 categories = []
 date = ""
-description = ""
+description = "portrait photography tampa "
 image = "/images/portraits-header.jpg"
 tags = []
 title = "PORTRAITS"

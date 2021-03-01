@@ -1,8 +1,9 @@
 +++
 author = ""
+avatar = ""
 categories = []
 date = ""
-description = ""
+description = "child portraits tampa"
 image = "/images/kids-header.jpg"
 tags = []
 title = "KIDS"

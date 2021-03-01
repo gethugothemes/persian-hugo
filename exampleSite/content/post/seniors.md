@@ -1,9 +1,9 @@
 +++
-author = "senior-photographer-tampa"
+author = ""
 avatar = ""
 categories = []
 date = ""
-description = ""
+description = "senior-photographer-tampa"
 image = "/images/senior-header.jpg"
 tags = []
 title = "SENIORS"
