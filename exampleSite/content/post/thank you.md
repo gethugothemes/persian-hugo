@@ -1,8 +1,9 @@
 +++
 author = ""
+avatar = ""
 categories = []
 date = ""
-description = ""
+description = "thank you"
 image = "/images/thank-you-header.jpg"
 tags = []
 title = "Thank you"
