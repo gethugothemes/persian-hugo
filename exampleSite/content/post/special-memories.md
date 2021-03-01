@@ -1,5 +1,6 @@
 +++
-author = ""
+author = "special-memories"
+avatar = ""
 categories = []
 date = ""
 description = ""

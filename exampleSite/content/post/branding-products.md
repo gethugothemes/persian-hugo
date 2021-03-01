@@ -1,5 +1,6 @@
 +++
-author = ""
+author = "product and food photographer tampa"
+avatar = ""
 categories = []
 date = ""
 description = ""

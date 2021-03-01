@@ -1,5 +1,6 @@
 +++
-author = ""
+author = "senior-photographer-tampa"
+avatar = ""
 categories = []
 date = ""
 description = ""
