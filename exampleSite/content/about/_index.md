@@ -18,7 +18,7 @@ One of my favorite parts about photography is being able to capture emotions and
 
 <br>
 
-I have grown up in the midwest but have had the goal of living in Florida ever since my first visit. 2020 brought that around despite everything that happened in the world, and I am so excited to spend more years here.
+I have grown up in the midwest but have had the goal of living in Florida ever since my first visit. 2020 brought that around despite everything that happened in the world, and I am so excited to spend more years in the Tampa area.
 
 <br>
 
