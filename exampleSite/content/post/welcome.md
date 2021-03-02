@@ -3,8 +3,8 @@ author = ""
 avatar = ""
 categories = []
 date = ""
-description = "welcome"
-image = "/images/unique-special-portrait-photography.jpg"
+description = "welcome page"
+image = "/images/img_7569.jpg"
 tags = []
 title = "Abigail Joy Photography"
 
