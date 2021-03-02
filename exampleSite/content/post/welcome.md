@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = ""
-image = "/images/img_7569.jpg"
+image = "/images/unique-special-portrait-photography.jpg"
 tags = []
 title = "Abigail Joy Photography"
 
