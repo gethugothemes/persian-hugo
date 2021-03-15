@@ -1,7 +1,7 @@
 ---
 title: Session Info
 description: Shoots & Pricing
-image: "/images/thank-you-header.jpg"
+image: ''
 date: ''
 author: ''
 categories: []
