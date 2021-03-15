@@ -5,10 +5,10 @@ categories = []
 date = ""
 description = "faq about my photoshoots & services"
 email = ""
-image = "/images/faq-header-ocean.jpg"
+image = "/images/faq-header-ocean-jpeg.jpg"
 social = []
 tags = []
-title = "FAQ"
+title = ""
 [menu.main]
 weight = 3
 
