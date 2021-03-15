@@ -14,6 +14,8 @@ menu:
     weight: 2
 
 ---
+**_SESSION INFO_**
+
 **PORTRAIT SHOOTS**
 
 All shoots include:
