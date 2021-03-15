@@ -8,7 +8,7 @@ email = ""
 image = "/images/faq-header-ocean-jpeg.jpg"
 social = []
 tags = []
-title = ""
+title = "FAQ"
 [menu.main]
 weight = 3
 
