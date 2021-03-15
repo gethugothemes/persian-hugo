@@ -1,5 +1,5 @@
 ---
-title: Session Info
+title: ''
 description: Shoots & Pricing
 image: ''
 date: ''
