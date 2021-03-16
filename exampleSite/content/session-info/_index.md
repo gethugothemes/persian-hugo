@@ -21,7 +21,7 @@ All shoots include:
 * Consultation by email, video call, or in person.
 * Complimentary styling guide or consultation if desired.
 * Pre session info/checklist emailed to you.
-* A digital gallery of edited images, all downloadable, with the option to purchase a flash drive and/or prints.
+* A digital gallery of edited images, all downloadable, with the option to purchase a flash drive and/or prints. I usually include more photos than the minimum listed below!
 * Location of your choice (some limits apply), or chosen by me based on your desired style/type of shoot, in a 40 mile radius from me.
 * Photos for up to 8 people.
 * Photo/print release.
