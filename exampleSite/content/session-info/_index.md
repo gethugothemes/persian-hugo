@@ -90,8 +90,10 @@ All shoots include:
 
 * A pre-booking consultation to discuss pricing, location, schedule & your goals for the shoot.
 * After booking, I will send you a questionaire about your brand or business to make sure I fully understand your vision for the shoot and your brand personality. Next is scheduling a call or in-person consultation to plan and strategize with you. We will also work together to make a digital inspiration board for the shoot, and find the perfect location(s) and props if needed.
-* An online digital gallery with the option to download all images. If you prefer to see the whole shoot, and select images yourself, you will get the number below included with your session price, and have the ability to purchase any others you like.
+* An online digital gallery with the option to download all images, and purchase a flash drive if desired.  If you prefer to see the whole shoot, and select your images yourself, you will get the number listed below included with your session price, and have the ability to purchase any additional favorites.
 * Commercial photo release
+
+<br>
 
 **2021 Lifestyle Branding Packages:**
 
