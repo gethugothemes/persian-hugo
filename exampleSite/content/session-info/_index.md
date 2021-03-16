@@ -40,7 +40,7 @@ All shoots include:
 
 1 outfit
 
-A minimum of 20 images
+A minimum of 15 images
 
 **$299**
 
@@ -50,7 +50,7 @@ A minimum of 20 images
 
 2 locations
 
-A minimum of 45 images
+A minimum of 30 images
 
 **$799**
 
