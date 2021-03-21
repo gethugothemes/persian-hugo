@@ -7,9 +7,9 @@
 				<div class="text-center">
 					<figure>
 						{{ if .Params.Image }}
-						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="{{.Params.Image | absURL }}">
+						<img loading="lazy" class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="{{.Params.Image | absURL }}">
 						{{else if .Params.Email}}
-						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
+						<img loading="lazy" class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
 						{{ end }}
 						<figcaption>
 							<h4>{{ .Title }}</h4>
@@ -40,7 +40,7 @@
 			{{ range where .Site.RegularPages "Params.author" .Title }}
 			<div class="col-md-6 mb-4">
 				<div class="post post-sm">
-					<img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+					<img loading="lazy" src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
 					<div class="post-content">
 						<div class="post-date">
 							<span>{{ .PublishDate.Format "02" }}</span>

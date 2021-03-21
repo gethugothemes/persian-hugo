@@ -14,7 +14,7 @@
     <script id="search-result-template" type="text/x-js-template">
       <div class="col-md-6 mb-4" id="summary-${key}">
         <div class="post post-sm">
-          <img src="{{.Site.BaseURL}}${image}" class="img-fluid w-100" alt="${title}">
+          <img loading="lazy" src="{{.Site.BaseURL}}${image}" class="img-fluid w-100" alt="${title}">
           <div class="post-content">
             <div class="post-date">
               <span>${date}</span>

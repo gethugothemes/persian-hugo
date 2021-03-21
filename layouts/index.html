@@ -8,7 +8,7 @@
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
         <div class="post">
-          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <img loading="lazy" src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <ul class="list-inline post-meta">
@@ -23,7 +23,7 @@
       {{ else }}
       <div class="col-md-6 mb-4">
         <div class="post post-sm">
-          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <img loading="lazy" src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <ul class="list-inline post-meta">

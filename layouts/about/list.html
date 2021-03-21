@@ -6,7 +6,7 @@
       <div class="col-lg-8 mx-auto text-center">
         <h1 class="text-center">{{.Title | markdownify}}</h1>
         {{ with .Params.image }}
-        <img src="{{ . | absURL }}" alt="author" class="author-img">
+        <img loading="lazy" src="{{ . | absURL }}" alt="author" class="author-img">
         {{ end }}
       </div>
     </div>
@@ -18,7 +18,7 @@
     <div class="row">
       <div class="col-md-6 col-12 mx-auto">
         {{ with .Params.avatar }}
-        <img src="{{ . | absURL }}" alt="author" class="img-fluid">
+        <img loading="lazy" src="{{ . | absURL }}" alt="author" class="img-fluid">
         {{ end }}
       </div>
       <div class="col-md-6 col-12 mx-auto">
