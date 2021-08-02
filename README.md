@@ -39,7 +39,7 @@ Here comes the last step , go to your [netlify](https://bit.ly/netlify-account) 
 
 ## Demo
 
-[Live Preview](http://demo.themefisher.com/persian-hugo/).
+[Live Preview](http://demo.gethugothemes.com/persian/).
 **The images are only for demonstration purpose, Please don't use those images.**
 
 
