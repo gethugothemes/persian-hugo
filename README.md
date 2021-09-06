@@ -1,70 +1,119 @@
-# Easy Setup (Hugo + Netlify + Forestry)
-Build your website with Persian hugo theme by following this easy steps (No Coding Required)
+<h1 align=center> Persian Hugo | <a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2F#performance">Page Speed (50%)</a></h1>
 
-<a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
+<p align=center>
+  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.70.0&color=f00&logo=hugo" />
+  </a>
 
-In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code. We made this tutorial based on [meghna hugo](https://github.com/themefisher/meghna-hugo) but you can setup everithing like this.
+  <a href="https://github.com/gethugothemes/persian-hugo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/gethugothemes/persian-hugo" alt="license"></a>
 
-### What you need !!
+  <img src="https://img.shields.io/github/languages/code-size/gethugothemes/persian-hugo" alt="code size">
 
-1. Git acccount (Ex: Github, Gitlab etc ) . In our case we use github.
-2. [Netlify](https://bit.ly/netlify-account) account to host files and add custom domain .
-3. [Forestry](https://bit.ly/forestry-account) account to maintain whole project without code.
+  <a href="https://github.com/gethugothemes/persian-hugo/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/gethugothemes/persian-hugo" alt="contributors"></a>
 
+  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
+    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
+      alt="follow on Twitter"></a>
+</p>
 
-### Step 1 : Fork or Clone repository
+---
 
-First we will fork this [persian hugo](https://github.com/themefisher/persian-hugo) template.
+<p align="center">
 
-### Step 2 : Add your repository in Forestry
+![persian](images/screenshot.png)
+</p>
 
-Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings . Mark everything is done then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
-
-### Step 3 : Setup and host website with Netlify
-
-Here comes the last step , go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `persian hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
-
-> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/persian-hugo/issues)
-
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Installation](#installation)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [Licensing](#licensing)
-- [More Hugo Themes](https://themefisher.com/hugo-themes/)
-
-
-## Demo
-
-[Live Preview](http://demo.gethugothemes.com/persian/).
-**The images are only for demonstration purpose, Please don't use those images.**
+---
+## Features
+- Google analytics  support
+- CSS and JS bundle with hugo pipe
+- Netlify settings predefine
+- Forestry cms pre-configured
+- Contact form Support
+- Search by fuse.js
+- GDPR consent enable
+- Google page speed optimized ( 50% )
+- Open graph meta tag
+- Twitter card meta tag
 
 
-## Installation
-At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
+## Local development
 
-**Note : You must use `hugo-extended` version to compile SCSS**
+```bash
+# clone the repository
+git clone git@github.com:gethugothemes/persian-hugo.git
 
-```
-$ git clone git@github.com:themefisher/persian-hugo.git
+# cd in the project directory
 $ cd persian-hugo/exampleSite/
+
+# Start local dev server
 $ hugo server --themesDir ../..
 ```
+Or Check out [Full Documentation](https://docs.gethugothemes.com/persian/?ref=github).
 
+## Content Management System
+
+[![import to
+Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/persian-hugo&engine=hugo&version=0.87.0)
+
+This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
+repository in Forestry](https://app.forestry.io/quick-start?repo=gethugothemes/persian-hugo&engine=hugo&version=0.87.0) and
+you will be able to edit and preview your site ✨.
+
+Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
+
+## Deployment and hosting
+
+[![Deploy to
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/persian-hugo)
+
+Follow the steps.
+
+## Prefer a video? (Hugo + Netlify + Forestry)
+Build your website with **persian Hugo** theme by following these easy steps (No Coding Required!)
+[Video Tutorial](https://youtu.be/ResipmZmpDU).
+
+<!-- reporting issue -->
 ## Reporting Issues
+We use GitHub Issues as the official bug tracker for the persian Template. Please Search [existing
+issues](https://github.com/gethugothemes/persian-hugo/issues). Someone may have already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new
+issue](https://github.com/gethugothemes/persian-hugo/issues).
 
-We use GitHub Issues as the official bug tracker for the **Persian Theme**. Please Search [existing issues](https://github.com/themefisher/persian-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/persian-hugo/issues/new)
+<!-- ## persian Hugo theme Powered Websites
 
-## Technical Support or Questions (Paid)
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
+View all the websites powered by persian Hugo theme [here](https://github.com/gethugothemes/persian-hugo/wiki/All-persian-hugo-theme-Powered-Websites). Want to submit your own website powered by persian Hugo theme? You can submit it [here](https://github.com/gethugothemes/persian-hugo/discussions/15). -->
 
-## Premium Themes
+<!-- licence -->
+## License
+Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
+[Gethugothemes](https://gethugothemes.com)
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Reader](https://gethugothemes.com/wp-content/uploads/edd/2020/09/Reader.jpg)](https://gethugothemes.com/products/reader/) | [![logbook](https://gethugothemes.com/wp-content/uploads/edd/2020/03/logbook-hugo.jpg)](https://gethugothemes.com/products/logbook-hugo/) |
+**Code License:** Released under the [MIT](https://github.com/gethugothemes/persian-hugo/blob/master/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
+share those images.
+
+<!-- resources -->
+## Special Thanks
+- [Bootstrap](https://getbootstrap.com)
+- [Jquery](https://jquery.com)
+- [Themify Icons](https://themify.me/themify-icons)
+- [Fuse Js](http://fusejs.io)
+- [Mark Js](https://markjs.io/)
+- [Google Fonts](https://fonts.google.com/)
+- [All Contributors](https://github.com/gethugothemes/persian-hugo/graphs/contributors)
+
+
+## Hire Us
+We are available for **Hiring** for your next HUGO project. Please, check our
+[services](https://cutt.ly/ght-service)
+
+<!-- premium themes -->
+## Premium Themes By Us
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![biztrox](https://demo.gethugothemes.com/thumbnails/biztrox.webp)](https://gethugothemes.com/products/biztrox/) | [![delta](https://demo.gethugothemes.com/thumbnails/delta.webp)](https://gethugothemes.com/products/delta/) |
 |:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Reader**  | **LogBook**  |
+| **Premium Theme Bundle (40+)** | **Biztrox** | **Delta** |
