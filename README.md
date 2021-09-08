@@ -1,4 +1,4 @@
-<h1 align=center> Persian Hugo | <a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2F#performance">Page Speed (50%)</a></h1>
+<h1 align=center> Persian Hugo | <a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2F">Page Speed (58%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
@@ -110,10 +110,10 @@ share those images.
 
 ## Hire Us
 We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://cutt.ly/ght-service)
+[services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![biztrox](https://demo.gethugothemes.com/thumbnails/biztrox.webp)](https://gethugothemes.com/products/biztrox/) | [![delta](https://demo.gethugothemes.com/thumbnails/delta.webp)](https://gethugothemes.com/products/delta/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![biztrox](https://demo.gethugothemes.com/thumbnails/biztrox.webp)](https://gethugothemes.com/products/biztrox/) | [![gosaas](https://demo.gethugothemes.com/thumbnails/gosaas.webp)](https://gethugothemes.com/products/gosaas/) |
 |:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Biztrox** | **Delta** |
+| **Premium Theme Bundle (40+)** | **Biztrox** | **Gosaas** |
