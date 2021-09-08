@@ -34,7 +34,7 @@
 - Contact form Support
 - Search by fuse.js
 - GDPR consent enable
-- Google page speed optimized ( 50% )
+- Google page speed optimized ( 58% )
 - Open graph meta tag
 - Twitter card meta tag
 
