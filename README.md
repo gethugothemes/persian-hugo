@@ -21,8 +21,7 @@
 ---
 
 <p align="center">
-
-![persian](images/screenshot.png)
+  <img src="https://demo.gethugothemes.com/thumbnails/persian.webp" alt="screenshot" width="100%">
 </p>
 
 ---
