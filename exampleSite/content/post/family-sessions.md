@@ -27,7 +27,9 @@ Standard family sessions include up to 8 people and begin at $175, but I also wo
 
 ![](/images/naples-family-photographer.jpg)
 
-![](/images/bradenton-family-photographer.jpg)![](/images/naples-family-photography-lifestyle.jpg)
+![](/images/bradenton-family-photographer.jpg)
+
+![](/images/naples-family-photography-lifestyle.jpg)
 
 ![](/images/fort-myers-family-photography.jpg)
 
