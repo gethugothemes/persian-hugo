@@ -13,10 +13,11 @@ title = "FAQ"
 weight = 3
 
 +++
-
 **-Do you travel?**
 
 Yes! I am located in the Tampa bay area, and will go anywhere within a 40 mile radius for any shoot, for no additional cost. Outside of the 40 miles, I add on a mileage fee. I also travel out of state (some restrictions may apply currently), but there is a travel fee added on instead of the mileage fee. The travel fee varies slightly by location, but expect a minimum of $350. If I am booking more than one session in your area, that fee may be split between clients! So tell your friends! ;)
+
+_*NOTE_* Starting mid January 2022, I will be relocating to Fort Myers, Florida.  My travel radius will be based off that location from them on unless you have booked a session prior to that date.
 
 **-How soon do I get my photos?**
 
