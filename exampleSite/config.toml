@@ -82,6 +82,9 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
+
 # cookies
 [params.cookies]
 enable = true

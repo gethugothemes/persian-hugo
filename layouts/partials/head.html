@@ -27,6 +27,17 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
+
+  {{ "<!-- Custom css -->" | safeHTML }}
+  {{ range .Site.Params.customCss -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
+
+  {{ "<!-- Custom js -->" | safeHTML }}
+  {{ range .Site.Params.customJs -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+  {{- end }}
+
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
