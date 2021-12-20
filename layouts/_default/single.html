@@ -31,8 +31,10 @@
             </li>
             {{ end }}
           </ul>
+          {{ if (isset .Params "author") }}
           <span><i class="ti-user mr-2"></i><a
-              href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></span>
+              href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/">{{ .Params.author }}</a></span>
+          {{ end }}
         </div>
       </div>
     </div>
