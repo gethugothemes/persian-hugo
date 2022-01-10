@@ -11,7 +11,12 @@ AUTHOR WEBSITE: https://themefisher.com
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap");
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../fonts/playfair-display-v25-latin-regular.woff2") format("woff2"), url("../fonts/playfair-display-v25-latin-regular.woff") format("woff"); }
+
 body {
   line-height: 1.2;
   font-family: "Playfair Display", sans-serif;
