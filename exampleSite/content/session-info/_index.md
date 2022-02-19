@@ -30,7 +30,7 @@ All shoots include:
 
 <br>
 
-**2021 Portrait Packages**
+**2022 Portrait Packages**
 
 **$175**
 
@@ -40,7 +40,7 @@ All shoots include:
 
 1 outfit
 
-A minimum of 15 images
+A minimum of 25 images
 
 **$299**
 
@@ -50,7 +50,7 @@ A minimum of 15 images
 
 2 locations
 
-A minimum of 30 images
+A minimum of 45 images
 
 **$799**
 
@@ -60,7 +60,7 @@ Multiple outfit changes
 
 Multiple locations
 
-A minimum of 70 images
+A minimum of 75 images
 
 Bonus print bundle consisting of up to 4 prints of your choice, with multiple size options included.
 
@@ -95,24 +95,34 @@ All shoots include:
 
 <br>
 
-**2021 Lifestyle Branding Packages:**
+**2022 Lifestyle Branding Options:**
 
-**Headshots:**
+**Just the Basics:**
 
-Perfect for if you're just needing some classic portraits or headshots.
+Perfect for if you’re just needing some classic portraits/headshots or some basic product images.
 
 $199
 
-10 images
+30 minute session
 
-Up to one hour of shooting.
+15-20 images (with the option to purchase additional shots if desired)
 
-**Branding:**
+**Hourly Sessions:**
 
-Based on your brand and personal style, this can be lifestyle portraits, behind-the-scenes, can also include a few product shots, or showcase your brand in whatever way you like! This is also great for batch shooting content for social media. Sessions begin at $350 for one hour with 30 images, and multiple outfits if desired.
+Perfect for batch shooting content if you're a creator or blogger, if you need a mix of portraits and products, or if you want to switch between several locations and want to allow for options! I also offer discounts for scheduled reccuring shoots if you need new images on a semi-regular basis.
 
-**Product/Food Photography:**
+$275 per hour (Billed for one hour prior to the shoot, we shoot as long as needed, and then the rest based off time will be due before receiving your gallery.)
 
-Designed for restaurant and small business owners, who want to showcase their products on their website or social media. Running any business is time consuming and having a batch of content readily available can save a lot of time and stress. I also offer some social media management packages for businesses and have bundle deals for combining the two! Contact me for more details and pricing on those options.
+This allows for multiple locations if desired, multiple outfits and setups, whatever you need!
 
-Sessions begin at $350, but I also have hourly packages available, which is perfect for you if you are wanting a large amount of images or a variety of shots or setups without having to worry about timeframe.
+A minimum of 40 images per hour.
+
+**Specialized Product/Food Photography:**
+
+Designed for restaurant and small business owners, who want to showcase their products on their website or social media. Classic product photography on a simple background, or a specialized setup based off your product and brand.
+
+Sessions are $350 for one hour, and $275 an hour after that.
+
+A minimum of 35 images per hour
+
+Typically one location only (some exceptions for product photography)
