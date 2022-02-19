@@ -126,3 +126,11 @@ Sessions are $350 for one hour, and $275 an hour after that.
 A minimum of 35 images per hour
 
 Typically one location only (some exceptions for product photography)
+
+**Event Photography:**
+
+If you want memories captured for your special event without having to miss out on those moments yourself, that's where I come in! Perfect for baby/bridal showers, networking events, new business launches, girls trips, etc!
+
+This is based soley off an hourly rate of $250 an hour, with a discount available for anything 5+ hours.
+
+(Some sizing and location limitations apply. Please include details of your event in your inquiry for the most time efficient quote!)
