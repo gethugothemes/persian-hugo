@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "maternity photographer tampa"
-image = "/images/maternity-header.jpg"
+image = "/images/fort-myers-maternity-photographer.jpg"
 tags = []
 title = "MATERNITY"
 
