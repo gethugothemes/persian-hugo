@@ -35,6 +35,7 @@ fields:
   description: only used for about page
 pages:
 - exampleSite/content/faq/faq.md
+- exampleSite/content/post/blog.md
 - exampleSite/content/post/branding-products.md
 - exampleSite/content/post/branding.md
 - exampleSite/content/post/event-photography.md
