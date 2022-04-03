@@ -40,9 +40,3 @@ A big part of your business is your brand image and your social media, and as a 
 ![](/images/product-business-branding.jpg)
 
 ![](/images/small-business-branding.jpg)
-
-![](/images/tampa-bay-branding-photographer-influencer-business.jpg)
-
-![](/images/tampa-branding-photography-boutique.jpg)
-
-![](/images/tampa-bay-branding-photographer-influencer.jpg)
