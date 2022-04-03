@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "family photoshoots"
-image = "/images/family-header.jpg"
+image = "/images/fort-myers-family-photographer.jpg"
 tags = []
 title = "FAMILY SESSIONS"
 

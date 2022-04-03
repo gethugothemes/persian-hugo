@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "welcome page"
-image = "/images/img_7569.jpg"
+image = "/images/fort-myers-photographer-lifestyle-sessions.jpg"
 tags = []
 title = "Abigail Joy Photography"
 
