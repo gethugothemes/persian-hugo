@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "Tampa branding photography"
-image = "/images/branding-header.jpg"
+image = "/images/south-florida-business-branding-fort-myers.jpg"
 tags = []
 title = "BRANDING"
 
