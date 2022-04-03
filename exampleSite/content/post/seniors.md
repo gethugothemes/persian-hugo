@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "senior-photographer-tampa"
-image = "/images/senior-header.jpg"
+image = "/images/college-senior-florida-university-south-florida.jpg"
 tags = []
 title = "SENIORS"
 
