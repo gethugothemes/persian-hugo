@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "couples and engagements"
-image = "/images/couples-header.jpg"
+image = "/images/couple-photography-downtown-shoot-tampa-downtown.jpg"
 tags = []
 title = "COUPLE SESSIONS"
 
