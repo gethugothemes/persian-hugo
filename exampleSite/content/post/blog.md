@@ -7,6 +7,6 @@ description = ""
 draft = true
 image = ""
 tags = []
-title = "Blog"
+title = "Blog (Recent Sessions)"
 
 +++
