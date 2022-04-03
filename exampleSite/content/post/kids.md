@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "child portraits tampa"
-image = "/images/kids-header.jpg"
+image = "/images/one-year-photoshoot-fort-myers.jpg"
 tags = []
 title = "KIDS"
 

@@ -4,7 +4,7 @@ avatar = ""
 categories = []
 date = ""
 description = "intimate weddings and elopements"
-image = "/images/wedding-header.jpg"
+image = "/images/sparkler-exit-intimate-wedding-south-florida-photographer.jpg"
 tags = []
 title = "INTIMATE WEDDINGS"
 
