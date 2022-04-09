@@ -13,15 +13,11 @@ Family portraits can seem like a headache, but I make my shoots built around you
 
 Standard family sessions include up to 8 people and begin at $175, but I also work with larger groups.  Contact me for a customized quote, or see my info page.
 
-![](/images/tampa-family-photographer-outdoor.jpg)
+![](/images/fort-myers-beach-family-photographer-beach-session.jpg)
 
-![](/images/tampa-family-session.jpg)
+![](/images/adult-family-photos-fort-myers-beach.jpg)
 
-![](/images/tampa-family-photos-toddler.jpg)
-
-![](/images/tampa-family-photoshoot.jpg)
-
-![](/images/tampa-bay-family-photography.jpg)
+![](/images/florida-beach-photography-family-photos.jpg)
 
 ![](/images/siesta-key-family-photography.jpg)
 
@@ -32,8 +28,6 @@ Standard family sessions include up to 8 people and begin at $175, but I also wo
 ![](/images/naples-family-photography-lifestyle.jpg)
 
 ![](/images/fort-myers-family-photography.jpg)
-
-![](/images/fort-myers-family-lifestyle-photography.jpg)
 
 ![](/images/fort-myers-sanibel-island-family-photographer.jpg)
 
@@ -54,3 +48,27 @@ Standard family sessions include up to 8 people and begin at $175, but I also wo
 ![](/images/tampa-fort-myers-family-photographer.jpg)
 
 ![](/images/fort-myers-sister-sibling-toddler-photography.jpg)![](/images/sarasota-sibling-sister-toddler-photography.jpg)
+
+![](/images/tampa-bay-family-photography.jpg)
+
+![](/images/tampa-family-photographer-outdoor.jpg)
+
+![](/images/tampa-family-photoshoot.jpg)
+
+![](/images/tampa-family-session.jpg)
+
+![](/images/beach-photographer-family-photos-fort-myers-beach.jpg)
+
+![](/images/fort-myers-beach-photoshoot-family-photos.jpg)
+
+![](/images/naples-beach-photographer-family-kids-session.jpg)'
+
+![](/images/vacation-family-photos-beach-family-session.jpg)
+
+![](/images/six-month-photography-session-baby-lifestyle-baby.jpg)
+
+![](/images/midwest-family-photographer-missouri-family.jpg)
+
+![](/images/lifestyle-family-sixmonth-baby-missouri-photographer.jpg)
+
+![](/images/missouri-six-month-baby-session.jpg)
