@@ -36,8 +36,10 @@ fields:
 pages:
 - exampleSite/content/faq/faq.md
 - exampleSite/content/post/blog.md
+- exampleSite/content/post/blog.md
 - exampleSite/content/post/branding-products.md
 - exampleSite/content/post/branding.md
+- exampleSite/content/post/event-photography.md
 - exampleSite/content/post/event-photography.md
 - exampleSite/content/post/family-sessions.md
 - exampleSite/content/post/kids.md
