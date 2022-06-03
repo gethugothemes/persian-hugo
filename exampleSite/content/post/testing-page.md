@@ -23,6 +23,10 @@ Sessions begin at $175.  See my info page for more details.
 
 ![](/images/downtown-couple-photography-fort-myers.jpg)
 
+![](/images/mountain-couple-session-florida-photographer.jpg)
+
+![](/images/desination-traveling-photographer-florida-colorado.jpg)
+
 ![](/images/tampa-engagement-photography.jpg)
 
 ![](/images/florida-couple-photographer.jpg)
@@ -40,6 +44,12 @@ Sessions begin at $175.  See my info page for more details.
 ![](/images/southwest-florida-engagment-photography.jpg)
 
 ![](/images/sunset-engagement-photoshoot-fort-myers-naples.jpg)
+
+![](/images/traveling-photographer-colorado-mountain-engagement-photographer.jpg)
+
+![](/images/mountain-forest-colorado-couple-engagment-session.jpg)
+
+![](/images/destination-couple-photography-colorado.jpg)
 
 ![](/images/outdoor-florida-couple-engagment-photographer.jpg)
 
