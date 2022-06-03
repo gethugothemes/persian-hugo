@@ -13,6 +13,30 @@ Children are one of my favorite things to photograph.  They have so much life an
 
 Sessions start at $175.  See my info page for more details.
 
+![](/images/sarasota-child-children-photographer.jpg)
+
+![](/images/one-year-girl-photoshoot-cape-coral.jpg)
+
+![](/images/southwest-florida-child-photographer.jpg)
+
+![](/images/one-year-child-photography-naples-southwest-florida.jpg)
+
+![](/images/one-year-birthday-photo-session-fort-myers.jpg)
+
+![](/images/fort-myers-family-photograpehr.jpg)
+
+![](/images/family-children-toddler-photography-florida.jpg)
+
+![](/images/cape-coral-child-children-one-year-photo-session.jpg)
+
+![](/images/children-photography-fort-myers-beach.jpg)
+
+![](/images/child-and-pet-photography-session-fort-myers.jpg)
+
+![](/images/southwest-florida-sibling-session.jpg)
+
+![](/images/fort-myers-summer-kids-photoshoot.jpg)
+
 ![](/images/tampa-bay-toddler-photographer.jpg)
 
 ![](/images/tampa-toddler-photoshoot.jpg)
@@ -25,14 +49,6 @@ Sessions start at $175.  See my info page for more details.
 
 ![](/images/tampa-child-photographer.jpg)
 
-![](/images/tampa-child-photography.jpg)
-
-![](/images/tampa-child-photoshoot.jpg)
-
-![](/images/tampa-back-to-school-shoot.jpg)
-
-![](/images/tampa-toddler-photography.jpg)
-
 ![](/images/tampa-bay-kids-photoshoot.jpg)
 
 ![](/images/tampa-bay-kid-photographer.jpg)
@@ -40,8 +56,6 @@ Sessions start at $175.  See my info page for more details.
 ![](/images/tampa-children-photographer.jpg)
 
 ![](/images/tampa-kids-photographer.jpg)
-
-![](/images/tampa-young-kids-photoshoot.jpg)
 
 ![](/images/tampa-bay-kids-photos.jpg)
 
