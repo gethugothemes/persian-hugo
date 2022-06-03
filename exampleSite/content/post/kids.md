@@ -37,6 +37,24 @@ Sessions start at $175.  See my info page for more details.
 
 ![](/images/fort-myers-summer-kids-photoshoot.jpg)
 
+![](/images/fort-myers-beach-family-photography-kids.jpg)
+
+![](/images/brother-photos-toddlers-sarasota-photographer.jpg)
+
+![](/images/sibling-photos-toddler-child-photography-fort-myers-beach.jpg)
+
+![](/images/bradenton-florida-child-photographer-family.jpg)
+
+![](/images/sunset-sibling-photos-kids-fort-myers-beach.jpg)
+
+![](/images/family-children-photographer-fort-myers-florida.jpg)
+
+![](/images/kid-photoshoot-fort-myers.jpg)
+
+![](/images/naples-child-photographer.jpg)![](/images/sister-photos-siblings-photoshoot-naples-florida-photographer.jpg)![](/images/sister-photoshoot-southwest-florida-photography.jpg)
+
+![](/images/kids-sister-session-florida-photography.jpg)
+
 ![](/images/tampa-bay-toddler-photographer.jpg)
 
 ![](/images/tampa-toddler-photoshoot.jpg)
@@ -48,15 +66,3 @@ Sessions start at $175.  See my info page for more details.
 ![](/images/tampa-children-photos.jpg)
 
 ![](/images/tampa-child-photographer.jpg)
-
-![](/images/tampa-bay-kids-photoshoot.jpg)
-
-![](/images/tampa-bay-kid-photographer.jpg)
-
-![](/images/tampa-children-photographer.jpg)
-
-![](/images/tampa-kids-photographer.jpg)
-
-![](/images/tampa-bay-kids-photos.jpg)
-
-![](/images/tampa-kids-photoshoot.jpg)
