@@ -13,6 +13,20 @@ Being pregnant is an amazing special experience and maternity photos capture the
 
 Sessions start at $175.  See my info page for more details.
 
+![](/images/siesta-key-maternity-photographer.jpg)
+
+![](/images/maternity-beach-session-sanibel-island-florida.jpg)
+
+![](/images/sanibel-island-florida-maternity-photographer.jpg)
+
+![](/images/beach-ocean-maternity-shoot-naples-florida.jpg)
+
+![](/images/fort-myers-maternity-photography.jpg)
+
+![](/images/pregnancy-maternity-photo-session-fort-myers-beach.jpg)
+
+![](/images/fort-myers-beach-maternity-photoshoot.jpg)
+
 ![](/images/tampa-maternity-photoshoot.jpg)
 
 ![](/images/tampa-maternity-photos.jpg)
