@@ -23,7 +23,7 @@ All shoots include:
 * Pre session info/checklist emailed to you.
 * A digital gallery of edited images, all downloadable, with the option to purchase a flash drive and/or prints. I usually include more photos than the minimum listed below!
 * Location of your choice (some limits apply), or chosen by me based on your desired style/type of shoot, in a 40 mile radius from me.
-* Photos for up to 10 people. 
+* Photos for up to 10 people.
 * Photo/print release.
 
 <br>
@@ -89,7 +89,7 @@ I do not have a studio, so all branding shoots are done at an agreed upon locati
 All shoots include:
 
 * A pre-booking consultation to discuss pricing, location, schedule & your goals for the shoot.
-* After booking, I will send you a questionaire about your brand or business to make sure I fully understand your vision for the shoot and your brand personality. Next is scheduling a call or in-person consultation to plan and strategize with you. We will also work together to make a digital inspiration board for the shoot, and find the perfect location(s) and props if needed.
+* After booking or during your consultation, I will send you a questionaire about your brand or business to make sure I fully understand your vision for the shoot and your brand personality. Next is scheduling a call or in-person consultation to plan and strategize with you. We will also work together to make a digital inspiration board for the shoot, and find the perfect location(s) and props if needed.
 * An online digital gallery with the option to download all images, and purchase a flash drive if desired.  If you prefer to see the whole shoot, and select your images yourself, you will get the number listed below included with your session price, and have the ability to purchase any additional favorites.
 * Commercial photo release
 
