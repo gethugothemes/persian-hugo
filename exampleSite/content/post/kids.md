@@ -13,6 +13,20 @@ Children are one of my favorite things to photograph.  They have so much life an
 
 Sessions start at $175.  See my info page for more details.
 
+![](/images/kids-portraits-photographer-fort-mmyers-cape-coral-naples.jpg)
+
+![](/images/outdoor-kids-portraits-southwest-florida.jpg)
+
+![](/images/child-photographer-cape-coral-florida-photography.jpg)
+
+![](/images/child-portraits-southwest-florida-tampa-photographer.jpg)
+
+![](/images/back-to-school-portraits-fort-myers-florida.jpg)
+
+![](/images/child-portraits-cape-coral-photographer-florida.jpg)
+
+![](/images/cape-coral-fort-myers-photographer-children.jpg)
+
 ![](/images/sarasota-child-children-photographer.jpg)
 
 ![](/images/one-year-girl-photoshoot-cape-coral.jpg)
@@ -24,8 +38,6 @@ Sessions start at $175.  See my info page for more details.
 ![](/images/one-year-birthday-photo-session-fort-myers.jpg)
 
 ![](/images/fort-myers-family-photograpehr.jpg)
-
-![](/images/family-children-toddler-photography-florida.jpg)
 
 ![](/images/cape-coral-child-children-one-year-photo-session.jpg)
 
