@@ -23,9 +23,13 @@ Sessions begin at $175.  See my info page for more details.
 
 ![](/images/downtown-couple-photography-fort-myers.jpg)
 
-![](/images/mountain-couple-session-florida-photographer.jpg)
+![](/images/sanibel-island-photographer-couple-photography.jpg)
 
-![](/images/desination-traveling-photographer-florida-colorado.jpg)
+![](/images/captiva-sanibel-island-couple-photography-southwest-florida-photographer.jpg)
+
+![](/images/couple-photography-fort-myers-florida-cape-coral-naples-photographer.jpg)
+
+![](/images/engagment-photographer-fort-myers-cape-coral-photography.jpg)
 
 ![](/images/tampa-engagement-photography.jpg)
 
@@ -44,14 +48,6 @@ Sessions begin at $175.  See my info page for more details.
 ![](/images/southwest-florida-engagment-photography.jpg)
 
 ![](/images/sunset-engagement-photoshoot-fort-myers-naples.jpg)
-
-![](/images/traveling-photographer-colorado-mountain-engagement-photographer.jpg)
-
-![](/images/mountain-forest-colorado-couple-engagment-session.jpg)
-
-![](/images/destination-couple-photography-colorado.jpg)
-
-![](/images/outdoor-florida-couple-engagment-photographer.jpg)
 
 ![](/images/tampa-couples-sessions-outdoor.jpg)
 
