@@ -19,7 +19,17 @@ Product shoots begin at $350 but also have hourly rates available if you are wan
 
 ![](/images/lemon-tarts-bakery-tampa-branding2.jpg)
 
-![](/images/cake-bakery-branding-photos-tampa.jpg)
+![](/images/product-photographer-florida-fort-myers.jpg)
+
+![](/images/tampa-branding-photographer-product-food-photography.jpg)![](/images/tampa-st-petersburg-branding-food-prodct-photography.jpg)
+
+![](/images/fort-myers-branding-marketing-photographer-brand.jpg)
+
+![](/images/business-photographer-branding-photography.jpg)
+
+![](/images/small-business-branding-photography-fort-myers-naples-photographer.jpg)
+
+![](/images/food-photographer-fort-myers-cape-coral-florida.jpg)
 
 ![](/images/macaraons-european-french-branding-tampa.jpg)
 
@@ -33,10 +43,8 @@ Product shoots begin at $350 but also have hourly rates available if you are wan
 
 ![](/images/chocolate-cookie-bakery-branding-tampa.jpg)
 
-![](/images/restaurant-cafe-branding-tampa.jpg)
+![](/images/product-branding-influencer-photography.jpg)
 
-![](/images/smoothies-cafe-restaurant-branding-tampa.jpg)
-
-![](/images/cafe-restaurant-branding-tampa.jpg)![](/images/wrap-lunch-branding-restaurant-tampa.jpg)
+![](/images/wrap-lunch-branding-restaurant-tampa.jpg)
 
 ![](/images/drinks-lemonade-restaurant-branding-tampa.jpg)
