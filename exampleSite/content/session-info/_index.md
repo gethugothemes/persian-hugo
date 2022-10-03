@@ -34,7 +34,7 @@ All shoots include:
 
 **$199**
 
-30 minutes
+30 minutes of photography
 
 1 location
 
@@ -44,7 +44,7 @@ A minimum of 25 images
 
 **$350**
 
-1 hour of shooting
+1 hour of photography
 
 2-3 outfits
 
@@ -54,7 +54,7 @@ A minimum of 45 images
 
 **$875**
 
-Up to 3 hours of shooting
+Up to 3 hours of photography
 
 Multiple outfit changes
 
