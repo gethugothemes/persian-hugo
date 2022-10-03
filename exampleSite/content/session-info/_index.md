@@ -32,7 +32,7 @@ All shoots include:
 
 **2022 Portrait Packages**
 
-**$175**
+**$199**
 
 30 minutes
 
@@ -42,7 +42,7 @@ All shoots include:
 
 A minimum of 25 images
 
-**$299**
+**$350**
 
 1 hour of shooting
 
@@ -52,7 +52,7 @@ A minimum of 25 images
 
 A minimum of 45 images
 
-**$799**
+**$875**
 
 Up to 3 hours of shooting
 
@@ -74,7 +74,7 @@ At this time I only offer wedding packages for intimate weddings and elopements.
 
 (Usually up to 50 guests)
 
-Packages are customized to each couple and wedding, but start at $849 and include a minimum of 3 hours of shooting, a consultation, online gallery of edited image, plus a discount on an engagment session. Please contact me for a customized quote!
+Packages are customized to each couple and wedding, but start at $899 and include a minimum of 3 hours of shooting, a consultation, online gallery of edited image, plus a discount on an engagment session. Please contact me for a customized quote!
 
 <br>
 
@@ -111,17 +111,17 @@ $199
 
 Perfect for batch shooting content if you're a creator or blogger, if you need a mix of portraits and products, or if you want to switch between several locations and want to allow for options! I also offer discounts for scheduled reccuring shoots if you need new images on a semi-regular basis.
 
-$275 per hour (Billed for one hour prior to the shoot, we shoot as long as needed, and then the rest based off time will be due before receiving your gallery.)
+$299 per hour ($50 deposit to hold your session date and time.  The rest is billed after the shoot based off amount of time spent photographing, and will be due before receiving your gallery.)
 
 This allows for multiple locations if desired, multiple outfits and setups, whatever you need!
 
-A minimum of 40 images per hour.
+A minimum of 50 images per hour.
 
 **Specialized Product/Food Photography:**
 
 Designed for restaurant and small business owners, who want to showcase their products on their website or social media. Classic product photography on a simple background, or a specialized setup based off your product and brand.
 
-Sessions are $350 for one hour, and $275 an hour after that.
+Sessions are $350 for one hour, and $299 an hour for any additional time after that.
 
 A minimum of 35 images per hour
 
