@@ -1,4 +1,8 @@
-<h1 align=center> Persian Hugo | <a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2F">Page Speed (58%)</a></h1>
+<h1 align=center> Persian Hugo</h1> 
+<p align=center>Persian is a personal Hugo blog theme.It has a lighting fast loading time which is a courtesy of the Hugo framework </p>
+<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2Fsite%2F&form_factor=desktop">Page Speed (88%)</a> </h2>
+
+
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
@@ -26,7 +30,7 @@
 
 ---
 
-## Features
+## Key Features
 
 - Google analytics  support
 - CSS and JS bundle with hugo pipe
@@ -35,7 +39,7 @@
 - Contact form Support
 - Search by fuse.js
 - GDPR consent enable
-- Google page speed optimized ( 58% )
+- Google page speed optimized
 - Open graph meta tag
 - Twitter card meta tag
 
@@ -121,6 +125,6 @@ If you need to customize the theme or complete website development from scratch,
 <!-- premium themes -->
 ## Premium Themes By Us
 
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle/?utm_source=persian_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook/) | [![Parsa](https://demo.gethugothemes.com/thumbnails/parsa.png)](https://gethugothemes.com/products/parsa/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=persian_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook/) | [![Parsa](https://demo.gethugothemes.com/thumbnails/parsa.png)](https://gethugothemes.com/products/parsa/) |
 |:---:|:---:|:---:|
-| **Get 50+ Premium Hugo Themes Bundle** | **Logbook** | **Parsa** |
+| **Get 55+ Premium Hugo Themes Bundle** | **Logbook** | **Parsa** |
