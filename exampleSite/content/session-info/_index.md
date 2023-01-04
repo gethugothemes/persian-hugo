@@ -22,17 +22,17 @@ All shoots include:
 * Complimentary styling guide or consultation if desired.
 * Pre session info/checklist emailed to you.
 * A digital gallery of edited images, all downloadable, with the option to purchase a flash drive and/or prints. I usually include more photos than the minimum listed below!
-* Location of your choice (some limits apply), or chosen by me based on your desired style/type of shoot, in a 40 mile radius from me.
-* Photos for up to 10 people.
+* Location of your choice (some limits apply), or chosen by me based on your desired style/type of shoot (travel fees may apply if outside my current area.)
+* Photos for up to 10 people (additional fee may apply for larger groups.)
 * Photo/print release.
 
 <br>
 
 <br>
 
-**2022 Portrait Packages**
+**2023 Portrait Packages**
 
-**$199**
+**$250**
 
 30 minutes of photography
 
@@ -42,7 +42,7 @@ All shoots include:
 
 A minimum of 25 images
 
-**$350**
+**$450**
 
 1 hour of photography
 
@@ -52,7 +52,7 @@ A minimum of 25 images
 
 A minimum of 45 images
 
-**$875**
+**$925**
 
 Up to 3 hours of photography
 
@@ -74,7 +74,7 @@ At this time I only offer wedding packages for intimate weddings and elopements.
 
 (Usually up to 50 guests)
 
-Packages are customized to each couple and wedding, but start at $899 and include a minimum of 3 hours of shooting, a consultation, online gallery of edited image, plus a discount on an engagment session. Please contact me for a customized quote!
+Packages are customized to each couple and wedding, but start at $1050 and include a minimum of 3 hours of shooting, a consultation, online gallery of edited image, plus a discount on an engagment session. Please contact me for a customized quote!
 
 <br>
 
@@ -95,13 +95,13 @@ All shoots include:
 
 <br>
 
-**2022 Lifestyle Branding Options:**
+**2023 Lifestyle Branding Options:**
 
 **Just the Basics:**
 
 Perfect for if you’re just needing some classic portraits/headshots or some basic product images.
 
-$199
+$250
 
 30 minute session
 
@@ -111,7 +111,7 @@ $199
 
 Perfect for batch shooting content if you're a creator or blogger, if you need a mix of portraits and products, or if you want to switch between several locations and want to allow for options! I also offer discounts for scheduled reccuring shoots if you need new images on a semi-regular basis.
 
-$299 per hour ($50 deposit to hold your session date and time.  The rest is billed after the shoot based off amount of time spent photographing, and will be due before receiving your gallery.)
+$325 per hour ($50 deposit to hold your session date and time.  The rest is billed after the shoot based off amount of time spent photographing, and will be due before receiving your gallery.)
 
 This allows for multiple locations if desired, multiple outfits and setups, whatever you need!
 
@@ -131,6 +131,6 @@ Typically one location only (some exceptions for product photography)
 
 If you want memories captured for your special event without having to miss out on those moments yourself, that's where I come in! Perfect for baby/bridal showers, networking events, new business launches, girls trips, etc!
 
-This is based soley off an hourly rate of $250 an hour, with a discount available for anything 5+ hours.
+This is based soley off an hourly rate of $325 an hour, with a discount available for anything 3+ hours.
 
 (Some sizing and location limitations apply. Please include details of your event in your inquiry for the most time efficient quote!)
