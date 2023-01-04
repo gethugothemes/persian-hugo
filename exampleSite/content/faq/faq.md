@@ -19,11 +19,11 @@ Yes! I am located in the Fort Myers area, and will go anywhere within a 40 mile 
 
 I also have select dates each month where I will be in the Tampa Bay/St. Pete area for no additional mileage fee!  These will vary every month but will typically be around/over a weekend.  Don't hesitate to ask if you're from that area!
 
- I also travel out of state (some restrictions may apply currently), but there is a travel fee added on instead of the mileage fee. The travel fee varies slightly by location, but expect a minimum of $350. If I am booking more than one session in your area, that fee may be split between clients! So tell your friends! ;)
+I also travel out of state (some restrictions may apply currently), but there is a travel fee added on instead of the mileage fee. The travel fee varies slightly by location, but expect a minimum of $400. If I am booking more than one session in your area, that fee may be split between clients! So tell your friends! ;)
 
 **-How soon do I get my photos?**
 
-Portrait and branding photos will be sent to you within three weeks maximum. Weddings will be within one month of the wedding date! Usually it's only a week or two because I am so excited to get your photos to you, but busier times of year cause for more delays. However, I always send a sneak peek soon after your session!
+Portraits and wedding photos will be sent to you within one month maximum.  Branding photos are a two week maximum.  Usually it's only a week or two because I am so excited to get your photos to you, but busier times of year cause for more delays. However, I always send a sneak peek soon after your session!
 
 **-I'm awkward and don't know how to pose.**
 
@@ -35,7 +35,7 @@ All of my shoots come with a consultation, and this starts before even booking. 
 
 **-How soon do I need to pay for my shoot?**
 
-I require a nonrefundable retainer fee as soon as we confirm a session date and time. This guarantees your date for you and is 35% of the session cost. (This is a part of the session prices listed, not in addition to). Without this retainer, I cannot guarantee that session will still be available for that time slot later. The rest of the session cost is due in full by the day before the session, but I do offer payment plans if desired. Payment options include Venmo, Paypal, cash or paying with card via an invoice I send you.
+I require a nonrefundable retainer fee as soon as we confirm a session date and time. This guarantees your date for you and is 30% of the session cost. (This is a part of the session prices listed, not in addition to). Without this retainer, I cannot guarantee that session will still be available for that time slot later. The rest of the session cost is due in full by the day before the session, but I do offer payment plans if desired. Payment options include Venmo, Paypal, cash or paying with card via an invoice I send you.
 
 **-What if I need to cancel my shoot?**
 
