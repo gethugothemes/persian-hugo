@@ -1,6 +1,6 @@
 <h1 align=center> Persian Hugo</h1> 
 <p align=center>Persian is a personal Hugo blog theme.It has a lighting fast loading time which is a courtesy of the Hugo framework </p>
-<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2Fsite%2F&form_factor=desktop">Page Speed (88%)</a> </h2>
+<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/persian" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fpersian%2Fsite%2F&form_factor=desktop">Page Speed (88%)🚀</a> </h2>
 
 
 
@@ -30,20 +30,20 @@
 
 ---
 
-## Key Features
+## 🔑Key Features
 
-- Google analytics  support
-- CSS and JS bundle with hugo pipe
-- Netlify settings predefine
-- Forestry cms pre-configured
-- Contact form Support
-- Search by fuse.js
-- GDPR consent enable
-- Google page speed optimized
-- Open graph meta tag
-- Twitter card meta tag
+- 📊 Google Analytics support
+- 🎨 CSS and JS bundle with Hugo Pipe
+- 🅱️ Bootstrap
+- ⚙️ Netlify settings predefined
+- ✉️ Contact form support
+- 🔍 Search by fuse.js
+- 🔄 GDPR consent enabled
+- 🚀 Google Page Speed optimized
+- 🌐 Open Graph meta tag
+- 🐦 Twitter Card meta tag
 
-## Local development
+## 🔧Local development
 
 ```bash
 # clone the repository
@@ -58,7 +58,7 @@ $ hugo server --themesDir ../..
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/persian/?ref=github).
 
-## Content Management System
+## 📋Content Management System
 
 [![import to
 Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/persian-hugo&engine=hugo&version=0.87.0)
@@ -69,27 +69,27 @@ you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
-## Deployment and hosting
+## ⚙️Deployment and hosting
 
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/persian-hugo)
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
+## 🎥Prefer a video? (Hugo + Netlify + Forestry)
 
 Build your website with **persian Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
-## Reporting Issues
+## 🐞Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the persian Template. Please Search [existing
 issues](https://github.com/gethugothemes/persian-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/gethugothemes/persian-hugo/issues).
 
-## Submit Your Website To Our Showcase
+## 📱Submit Your Website To Our Showcase
 
 Are you using Persian Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
@@ -101,7 +101,7 @@ View all the websites powered by Persian Hugo from [here](https://gethugothemes.
 
 
 <!-- licence -->
-## License
+## 📄License
 
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
@@ -112,7 +112,7 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
-## Special Thanks
+## 🙏Special Thanks
 
 - [Bootstrap](https://getbootstrap.com)
 - [Jquery](https://jquery.com)
@@ -122,7 +122,7 @@ share those images.
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/gethugothemes/persian-hugo/graphs/contributors)
 
-## Hire Us
+## 👨‍💻Hire Us
 
 Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo.
 
@@ -130,7 +130,7 @@ If you need to customize the theme or complete website development from scratch,
 [services](https://gethugothemes.com/services/?utm_source=persian_github&utm_medium=referral&utm_campaign=github_theme_readme)**
 
 <!-- premium themes -->
-## Premium Themes By Us
+## 💎Premium Themes By Us
 
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=persian_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Logbook](https://demo.gethugothemes.com/thumbnails/logbook.png)](https://gethugothemes.com/products/logbook/) | [![Parsa](https://demo.gethugothemes.com/thumbnails/parsa.png)](https://gethugothemes.com/products/parsa/) |
 |:---:|:---:|:---:|
