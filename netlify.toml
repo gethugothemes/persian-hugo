@@ -7,5 +7,3 @@
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
 
-[build.processing]
-  skip_processing = true
