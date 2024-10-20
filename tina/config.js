@@ -22,7 +22,7 @@ export default defineConfig({
   media: {
     tina: {
       mediaRoot: "images",
-      publicFolder: "exampleSite/static",
+      publicFolder: "exampleSite/public",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
@@ -35,11 +35,8 @@ export default defineConfig({
         match: {
           include: "*",
         },
-        frontmatterDelimiters: [
-          "---",
-          "+++"
-        ],
-        frontmatterFormat: "yaml",
+        frontmatterDelimiters: ["+++"],
+        frontmatterFormat: "toml",
         fields: [
           {
             type: "string",
@@ -47,12 +44,6 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
           },
           {
             type: "string",
@@ -63,9 +54,12 @@ export default defineConfig({
             type: "image",
             name: "image",
             label: "Image",
-            media: {
-              type: "image",
-            },
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
           },
         ],
       },
@@ -83,10 +77,27 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
             isBody: true,
+          },
+          {
+            type: "image",
+            name: "about_image",
+            nameOverride: "about-image",
+            label: "About Image",
+          },
+          {
+            type: "image",
+            name: "avatar",
+            label: "Avatar",
           },
         ],
       },
