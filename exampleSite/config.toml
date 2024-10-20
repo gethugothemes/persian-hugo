@@ -1,5 +1,4 @@
 baseURL = "abigailjoy.photo.netlify.com"
-disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"

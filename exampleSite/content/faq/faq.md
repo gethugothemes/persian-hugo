@@ -1,18 +1,19 @@
-+++
-author = ""
-avatar = ""
-categories = []
-date = ""
-description = "faq about my services"
-email = ""
-image = "/images/faq-header-ocean-jpeg.jpg"
-social = []
-tags = []
-title = "FAQ"
-[menu.main]
-weight = 3
+---
+author: ""
+avatar: ""
+categories: []
+date: ""
+description: "faq about my services"
+email: ""
+image: "/images/faq-header-ocean-jpeg.jpg"
+social: []
+tags: []
+title: "FAQ"
+menu:
+  main:
+    weight: 3
 
-+++
+---
 **-Do you travel?**
 
 Yes! I am located in the Fort Myers area, and will go anywhere within a 40 mile radius for any shoot, for no additional cost. Outside of the 40 miles, I add on a mileage fee.

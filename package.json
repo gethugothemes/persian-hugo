@@ -1,0 +1,26 @@
+{
+  "name": "persian-hugo2",
+  "version": "1.0.0",
+  "description": "Build your website with Persian hugo theme by following this easy steps (No Coding Required)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abbie95/persian-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abbie95/persian-hugo/issues"
+  },
+  "homepage": "https://github.com/Abbie95/persian-hugo#readme",
+  "dependencies": {
+    "tinacms": "^2.2.9"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.6.9"
+  }
+}
