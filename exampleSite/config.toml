@@ -6,10 +6,7 @@ languageName = "En"
 languageCode = "en-us"
 # post pagination
 paginate = "5"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com# google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-
 
 ############################# output ##############################
 [outputs]
@@ -88,3 +85,8 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.cookies]
 enable = true
 expire_days = 2
+
+# disqus short name
+[services]
+  [services.disqus]
+    shortname = "" # get your shortname form here : https://disqus.com# google analytics
