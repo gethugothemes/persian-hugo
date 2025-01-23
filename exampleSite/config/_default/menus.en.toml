@@ -1,0 +1,26 @@
+################################ menu ##################################
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Category"
+url = "categories/nature/"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 5
+

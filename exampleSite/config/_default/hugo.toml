@@ -1,0 +1,8 @@
+######################## default configuration ####################
+baseURL = "https://demo.gethugothemes.com/persian/examplesite/"
+title = "Persian"
+theme = "persian-hugo"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+pagination.pagerSize = "5"
