@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/persian/examplesite/"
+baseURL = "/"
 title = "Persian"
 theme = "persian-hugo"
 languageName = "En"
