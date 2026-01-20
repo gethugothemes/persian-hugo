@@ -1,0 +1,52 @@
+{
+  "file": "exampleSite/content/english/author/john-doe.md",
+  "name": "author",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "John Doe",
+      "defaultValue": "John Doe"
+    },
+    {
+      "name": "image",
+      "label": "Image",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "email",
+      "label": "Email",
+      "type": "string",
+      "value": "johndoe@parsian.com",
+      "defaultValue": "johndoe@parsian.com"
+    },
+    {
+      "name": "social",
+      "label": "Social",
+      "type": "Array",
+      "value": [],
+      "defaultValue": "",
+      "fields": [
+        {
+          "name": "icon",
+          "label": "Icon",
+          "type": "string",
+          "value": "ti-github",
+          "defaultValue": "ti-github"
+        },
+        {
+          "name": "link",
+          "label": "Link",
+          "type": "string",
+          "value": "#",
+          "defaultValue": "#"
+        }
+      ]
+    }
+  ]
+}
