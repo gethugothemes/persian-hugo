@@ -1,0 +1,66 @@
+{
+  "file": "exampleSite/content/english/post/post-1.md",
+  "name": "post",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "Building an interface between people and nature",
+      "defaultValue": "Building an interface between people and nature"
+    },
+    {
+      "name": "date",
+      "label": "Date",
+      "type": "Date",
+      "value": "2020-05-12T06:14:34.000Z",
+      "defaultValue": "2020-05-12T06:14:34.000Z",
+      "alwaysUseCurrentDate": false
+    },
+    {
+      "name": "image",
+      "label": "Image",
+      "type": "media",
+      "value": "images/post/post-1.jpg",
+      "defaultValue": "images/post/post-1.jpg"
+    },
+    {
+      "name": "author",
+      "label": "Author",
+      "type": "string",
+      "value": "John Doe",
+      "description": "use capitalize",
+      "defaultValue": "John Doe"
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "This is meta description.",
+      "defaultValue": "This is meta description."
+    },
+    {
+      "name": "categories",
+      "label": "Categories",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "tags",
+      "label": "Tags",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "defaultValue": false
+    }
+  ]
+}
